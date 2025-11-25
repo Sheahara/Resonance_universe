@@ -1,0 +1,1128 @@
+﻿# RESONANCE UNIVERSE - ANOMALOUS PHARMACOLOGY CONSOLIDATED REFERENCE
+
+## Table of Contents
+1. [Core Principles](#core-principles)
+2. [ICR Compounds](#icr-compounds)
+3. [FRMC Compounds](#frmc-compounds)
+4. [TPC Compounds](#tpc-compounds)
+5. [Prometheus/PPTL Compounds](#prometheuspptl-compounds)
+6. [Black Market Compounds](#black-market-compounds)
+7. [Grey Market Compounds](#grey-market-compounds)
+8. [Discontinued ICR Formulary](#discontinued-icr-formulary)
+9. [Prenatal Care Protocols](#prenatal-care-protocols)
+10. [Cross-Species Pharmaceutical Complications](#cross-species-pharmaceutical-complications)
+
+---
+
+## Core Principles
+
+### Consent as Mechanism
+In the Resonance framework, consent has measurable biochemical and psionic effects. An identical compound drawn under duress is "flat" or unstable; if taken voluntarily (or even just believed to be voluntary), the resonance structure locks in cleanly and amplifies efficacy. FRMC in particular recognizes this and codifies it into their pharmacology—sometimes ritualized to make sure the donor believes their contribution was a gift.
+
+### Non-Sapient Entity Consent
+With non-sapient organisms, this gets ethically strange: how do you define "consent" from a coral, a dog, or a mycelial network? FRMC researchers argue about this constantly. The effectiveness of resonance-active compounds often provides empirical evidence of whether proper energetic exchange occurred.
+
+### Institutional Approaches
+- **ICR**: Molecular pharmacology, nanoparticle delivery, clinical sterility, "borrowed anchors"
+- **FRMC**: Ritual pharmacology, biological symbiosis, consent-based harvesting, patient-specific formulations
+- **TPC**: Archetypal infusions, collective memory work, "greater good" justifications, communal compounds
+- **Prometheus/PPTL**: Corner-cutting, untested prototypes, black box formulas, exploitable designs
+
+### Hybridization
+Resonance medicine almost always works best when hybridized: molecular pharmacology layered with psionic resonance tuning, patient-specific genetic or EVE signatures, and sometimes ritual field stabilization.
+
+---
+
+## ICR Compounds
+
+### ICR-4127: Membrace
+**Classification:** Synthetic nootropic, Type II stabilizer
+
+**Mechanism:**
+- Active compound derived from modified beta-carbolines grafted with ferrite nanoparticle carriers
+- Binds to limbic resonance junctions, dampening amplitude without blocking affect entirely
+- Creates a "resonance insulation layer" that reduces spontaneous activation
+
+**Applications:**
+- Issued as emergency intervention in SAFE participants prone to empathic overload
+- Used off-label by ICR staff for emotional blunting during high-risk debriefs
+
+**Risks:**
+- Prolonged use creates resonance dissociation syndrome (patients report "hearing their emotions at a distance")
+- Withdrawal can trigger rebound affective storms with bleed intensities up to 300% baseline
+
+---
+
+### Ferrivox
+**Classification:** Experimental nanopharmaceutical (BLACKBOOK ENTRY)
+
+**Mechanism:**
+- Nanoparticles carry dopamine reuptake inhibitors coated with resonance-active ferrite
+- Injection contains DNA fragments from "stable" Type V Cognitives (ethically sourced only in theory)
+- On activation, the drug enforces a borrowed anchor template, overriding unstable resonance expression
+
+**Applications:**
+- Crisis stabilization in containment breaches
+- Prototype "borrowed cognition therapy" for Type VIII subjects
+
+**Risks:**
+- Identity bleed from donor template—patients report "hearing thoughts that aren't theirs"
+- May permanently imprint fragments of donor's cognitive patterns
+- **Status:** Officially shelved, but rumored to still be in Sevron's private trials
+
+---
+
+## FRMC Compounds
+
+### FRMC-Δ3: Aureotrope
+**Classification:** Herbal-derived resonance tonic
+
+**Mechanism:**
+- Fermented infusion of goldenroot + donor EVE microfiltrate
+- Amplifies Type I Somatic-Kinetic healing capacity by temporarily boosting cellular resonance receptivity
+- Functions best when administered in ritual/communal settings (resonance field coherence enhances uptake)
+
+**Applications:**
+- Used in post-surgical recovery and pregnancy support (esp. high-risk resonance pregnancies)
+- Improves tissue repair, reduces miscarriage risk if carefully dosed
+
+**Risks:**
+- Overuse drains donor EVE from communal reservoir; may destabilize both donor and recipient if reciprocity is not honored
+- Occasionally induces "EVE mirroring"—recipient temporarily exhibits traits/abilities of donor
+
+---
+
+### FRMC-Helix Draft: Somnivir
+**Classification:** Sleep-regulation therapy, autologous formulation
+
+**Mechanism:**
+- Uses CRISPR-spliced autologous stem-cell fragments infused with patient's own EVE trace
+- Capsules generate a mild harmonic field tuned to the patient's DNA, inducing synchronous circadian resonance
+- Effect is restorative sleep with reinforced psychic shielding during REM
+
+**Applications:**
+- Treatment of insomnia in high-resonance patients (e.g., empaths, telepaths vulnerable to dream bleed)
+- Post-trauma stabilization: patients "wake within themselves" instead of drifting into others' fields
+
+**Risks:**
+- If contaminated with non-self DNA, dream bleed intensifies and patients may incubate foreign resonance traits
+- Long-term use may blur self/other boundary if not carefully monitored
+
+---
+
+### FRMC-Harvest Draft: Vitalis Nacre
+**Classification:** Regenerative tonic, mollusk-derived
+
+**Mechanism:**
+- Derived from mollusks bred in resonance fields, who release nacreous secretions only when sung to in harmonic patterns
+- The mollusks respond to resonance-toned chants (Type III/IV infusion) by secreting nacre enriched with biophotonic proteins
+- Powdered and suspended in honey wine, the nacre reinforces somatic tissue repair and reduces miscarriage risk
+
+**Applications:**
+- FRMC uses it in high-risk pregnancies to strengthen fetal membranes
+- Occasionally applied as a paste for bone fractures
+
+**Consent Note:**
+If nacre is harvested without harmonic coaxing, its lattice is brittle and non-functional. Effectiveness proves the mollusk's "consent" in the act of yielding.
+
+---
+
+### FRMC Draft: Myco-Resonant Draught ("Veilwine")
+**Classification:** Psychoactive fermentation, fungal-derived
+
+**Mechanism:**
+- Fermented infusion created by a symbiotic fungal colony, which must "choose" to fruit before harvesting
+- Fungi cultivated in resonance-suffused soil will only fruit when exposed to patient's anchored EVE signature
+- Harvested fruit bodies contain neurotransmitter analogues tuned to the patient's resonance band
+- Brewed into a dark wine that induces anchor realignment dreams
+
+**Applications:**
+- Administered to SAFE collar survivors in deprogramming rituals
+- Used to reduce regression—patients wake with renewed capacity to trust their own anchor
+
+**Risks:**
+- If fungal colony is forced to fruit prematurely, the wine induces anchor collapse hallucinations ("dream of drowning in others' fields")
+- Long-term overuse leads to fungal imprinting: patients crave soil contact and dampness
+
+---
+
+### FRMC Ritual Infusion: Sangreal Draft
+**Classification:** Blood-based reciprocal stabilizer
+
+**Mechanism:**
+- Microvolumes of blood taken during mutual consent rituals
+- Mixed with valerian, saffron, and resonance water, producing a red-gold elixir
+- Functions as a reciprocal stabilizer, temporarily echoing PRB (Protective Reciprocal Binding) effects
+
+**Applications:**
+- Emergency measure for anchor destabilization when PRB is unavailable
+- Sometimes given between partners as symbolic/medical bonding
+
+**Consent Note:**
+If the donor resists or feels coerced, the elixir curdles into iron-heavy sludge that induces nausea and anchor static. If the donor believes deeply in the gift, the elixir can stabilize resonance fields for days.
+
+---
+
+### FRMC Draft: Coralite Suspension
+**Classification:** Marine-derived empathic enhancer
+
+**Mechanism:**
+- Suspension derived from living coral fragments—harvested only when the colony "blooms" in resonance light
+- Coral polyps emit luminescent proteins under resonance chant
+- Suspension strengthens cross-resonance communication channels (particularly useful in Type II empaths)
+
+**Applications:**
+- Used in therapy for patients experiencing resonance regression—they regain ability to "hear" themselves and others clearly
+- Facilitates patient–healer communication during traumatic deprogramming
+
+**Risks:**
+- If harvested by force (breaking the coral), the suspension acts as a cognitive irritant, inducing paranoia
+- Repeated administration without ritual can cause patients to feel permanently submerged, hearing "the sea" in their blood
+
+---
+
+### FRMC Cross-Species Draft: Luminase
+**Classification:** Bioluminescent infusion, marine protein-based
+
+**Mechanism:**
+- Proteins from deep-sea siphonophores, naturally tuned to ultra-low frequency resonance bands, are modified for human metabolism
+- Infusion glows faintly in the bloodstream (visible under skin for ~6 hours)
+- Provides a living resonance carrier wave, boosting internal EVE transfer efficiency
+
+**Applications:**
+- Used in post-operative care to accelerate recovery by improving EVE circulation
+- Piloted for cross-species wound integration (e.g., hybrid grafts)
+
+**Risks:**
+- If dosage exceeds tolerance, patients may develop chronic subdermal bioluminescence ("lantern-skin")
+- In rare cases, destabilizes anchors by amplifying all resonance indiscriminately
+
+---
+
+### FRMC-Resiliol ("Anchor's Breath")
+**Classification:** Collar-dependency countermeasure
+
+**Mechanism:**
+- Uses a blend of endogenous EVE amplifiers + neurosteroids to simulate the collar's stabilizing field
+- Dissolving wafer, sublingual administration
+- Patients feel a soft "halo" of resonance containment, but with tapering duration over weeks
+
+**Applications:**
+- "Resonance scaffolding" drug that weans participants off collar dependency without collapse
+- Mimics sense of regulation collars provide while gradually restoring internal anchoring capacity
+
+**Risks:**
+- Some users become equally dependent on the drug—"portable collar syndrome"
+
+**Grey Note:**
+Some ICR clinics secretly prescribe this during collar "holidays," though they'd never admit to using FRMC formulations.
+
+---
+
+## TPC Compounds
+
+### TPC Ritual Compound: Phoros Draft ("Lightbearer")
+**Classification:** Communal tonic, ward stabilizer
+
+**Mechanism:**
+- Base infusion: mugwort + astragalus, boiled with trace blood samples from each participant
+- Resonance stabilizers sung in harmonic unison as infusion cools
+- Each dose is keyed to both group field coherence and genetic interlink
+
+**Applications:**
+- Used to power protective communal wards in TPC safehouses
+- Administered to volunteers before high-risk investigations of memetic anomalies
+
+**Risks:**
+- Participants sometimes experience identity diffusion (shared memories, "bleeding into each other")
+- Chronic use can create dependency on group identity, weakening solo anchor stability
+
+---
+
+### TPC Trial Compound: "Eidolon"
+**Classification:** Mnemonic stabilizer, regression countermeasure
+
+**Mechanism:**
+- A mnemonic stabilizer brewed with low-dose archetypal extracts (Type VII resonance infusions)
+- Strengthens narrative continuity of self
+- Reverses regression by reminding the body-mind of its own story
+
+**Applications:**
+- Counters cognitive/emotional regression from long-term collar use
+- Patients often recall childhood memories in hyper-real detail, reinforcing identity continuity
+
+**Risks:**
+- Can trigger false memory incorporation (the psyche backfills gaps with archetypal myths)
+- Patients sometimes believe they remember being historical/mythological figures
+
+**Grey Area:**
+TPC has dosed unwilling participants to see whether "false regression" could be countered by "false progression." Mixed results.
+
+---
+
+### Mnemosaline ("Chorus Salt")
+**Classification:** Collective archetypal resonance extractor
+
+**Mechanism:**
+- Crystalline salt compound dissolved in water, laced with EVE traces from executed volunteers
+- Induces choral mnemonic states, where multiple participants speak as one
+
+**Applications:**
+- Used to map mythic resonance fields, collective unconscious structures
+- "Truth serum" for extracting archetypal resonance from multiple subjects simultaneously
+
+**Risks:**
+- Post-use, participants often experience identity diffusion ("I am we") and permanent derealization
+
+**Grey Area:**
+TPC insists all participants "volunteer." Testimonies suggest many were pressured initiates or orphans. This represents TPC's "disposable test subjects" layer—ritualized expendability in their research.
+
+---
+
+### TPC Interrogation Compound: "Mnemosyne's Tears"
+**Classification:** Ego dissolution agent, interrogation tool
+
+**Mechanism:**
+- DMT analogue + archetypal resonance primers + donor mnemonic trace
+- Subject experiences "ego dissolution" but instead of classic psychedelic unity, they dissolve into collective memory
+- Can't maintain personal narrative boundaries. Everything becomes "we" instead of "I"
+
+**Applications:**
+- Used on suspected ICR infiltrators or corporate spies
+- Subject can't lie because they temporarily lose the narrative frame that would let them maintain a false story
+- They just... narrate. Everything. Because it all feels like shared history
+
+**Alexander's Justification:**
+"We're not torturing them. We're temporarily lifting the illusion of separation. If they've harmed the collective, the collective has a right to know. This is simply... removing the barrier."
+
+**The Reality:**
+- Subjects often can't fully reintegrate afterward. Permanent derealization
+- Some never regain clear self/other boundaries
+- TPC frames this as "acceptable collateral in service of truth"
+
+**Grey Note:**
+TPC does get genuine consent from volunteers for testing. But once it's proven effective, they don't ask permission from interrogation subjects. "The imbalance they created negated their right to sovereignty."
+
+---
+
+### TPC Grey Compound: "Witness Draft"
+**Classification:** Empathogenic compound, restorative justice tool
+
+**Mechanism (Temporary Version):**
+- Low-dose mnemonic sensitizer + empathogenic compounds + ritual context
+- Makes subjects hyper-receptive to others' emotional states and memories
+- Intended to create genuine remorse in wrongdoers by making them feel the harm they caused
+
+**TPC Application:**
+- Used on ICR operatives who've harmed TPC members
+- "You will witness what you've done"
+- Subject is placed in proximity to their victims and dosed. They experience the victim's trauma from the inside
+
+**Alexander's Framework:**
+"Restorative justice requires genuine understanding. How can they restore balance if they don't comprehend the harm? This creates comprehension."
+
+**The Problem:**
+- It's chemically-induced forced empathy
+- Some subjects break entirely under the weight of what they're made to feel
+- Others develop PTSD from experiencing trauma that wasn't originally theirs
+- A few commit suicide within weeks
+
+**TPC's Position:**
+"The harm was already done. We simply made it visible. If they can't bear to witness their own actions, that's not our fault."
+
+**The Grey Area:**
+Sometimes it does work. Sometimes genuine remorse and behavioral change follow. Sometimes people actually make amends. But the coercion underneath makes it ethically radioactive.
+
+---
+
+### "Witness Protocol - Permanent Binding"
+**Classification:** Permanent empathic binding, extreme sanction
+
+**Authorization Requirements:**
+- Summit Council Ethics Committee vote (requires 2/3 majority)
+- Evidence of systematic, large-scale harm (war crimes, mass trafficking, genocide, etc.)
+- Multiple agency attestation
+- Veil Accords signatory consensus
+
+**Mechanism:**
+- Same base compounds as Witness Draft, but with mnemonic binding agents
+- Subject is chemically locked into perpetual empathic receptivity to their victims' trauma
+- Not temporary. Not reversible
+- They will always feel the echoes of what they did
+
+**The Horror:**
+This isn't execution. It's worse. It's being forced to live inside the consequences forever.
+
+**The Justification:**
+"Death would be mercy they didn't extend. This is proportional response. They wanted power over others—now they'll experience what they inflicted, permanently."
+
+**Alexander's Position:**
+He's voted for it. Twice. Both times involving trafficking rings that targeted resonance-active children. He doesn't lose sleep over it.
+
+**The Controversy:**
+Even within TPC, this is debated. Some argue it's justice. Others call it torture. The Summit Council authorization requirement exists precisely because it's so extreme that no single faction can be trusted with it.
+
+---
+
+## Prometheus/PPTL Compounds
+
+### PPTL Prototype: Threnody
+**Classification:** Weaponized harmonic amplifier (ILLICIT)
+
+**Mechanism:**
+- Engineered peptide + psychoacoustic carrier embedded in microcrystalline suspension
+- Once metabolized, induces auditory hallucinations that sync with harmonic anchors, amplifying resonance output far beyond safe limits
+- Field nickname: "Siren's Blood"
+
+**Applications:**
+- Covert military enhancement trials for resonance operatives
+- Black market among Type III users seeking amplification
+
+**Risks:**
+- Known to trigger catastrophic feedback loops leading to hemorrhagic resonance rupture
+- Auditory cortex collapse + uncontrolled sonic discharges
+- PPTL documents note "use in civilian contexts highly inadvisable," but evidence suggests deployment in crowd-control weapons
+
+---
+
+### PPTL-X447 (No Street Name Yet)
+**Classification:** Failed anchor override protocol (BLACK BOX)
+
+**Origin:**
+Failed Prometheus prototype that was supposed to be destroyed. Wasn't. Now circulating in grey markets.
+
+**Intended Purpose:**
+"Anchor Override Protocol" - emergency resonance dampening for containment breach scenarios
+
+**Actual Effect:**
+- Completely shuts down resonance for 3-6 hours
+- Not "dampening." Not "stabilization." Full stop
+- Users describe it as "being amputated from myself"
+
+**Why It Failed:**
+- 15% of test subjects never regained resonance function
+- 8% developed progressive resonance degradation - losing capabilities over months/years
+- 3% died from what medical examiner called "ontological shock"
+
+**Current Market:**
+- Sold to people with "problem" resonance they want gone
+- Used by abusers to temporarily disable resonance-active victims
+- Some SAFE participants secretly buy it, preferring temporary chemical shutdown to collar dependency
+
+**The Darkest Use:**
+Parents dosing resonance-active children. "It's for their own good. Until they're old enough to handle it."
+
+**ICR Position:**
+Officially hunting down remaining doses. Unofficially keeping samples for "research purposes."
+
+**Sevron's Interest:**
+She's thought about it. A chemical failsafe if her Type-8 instability spirals. Better than collar, worse than death. She keeps a dose in her office safe.
+
+---
+
+## Black Market Compounds
+
+### "Tether" (Street Name: "Leash")
+**Classification:** Black market ferrite suspension
+
+**Origin:**
+Reverse-engineered from stolen PPTL ferrite suspension formulas, now manufactured in unsanctioned labs across the Bay Area.
+
+**Mechanism:**
+- Ferrite nanoparticles suspended in DMSO carrier, designed to mimic the "stabilization sensation" of SAFE collar feedback without the collar
+- Creates artificial resonance dampening through magnetic interference with natural EVE fields
+- Users report feeling "contained" and "safe" - the exact sensation collared participants describe during positive feedback cycles
+
+**Market:**
+- Sold to ex-SAFE participants who've been decollared but can't function without that external regulation feeling
+- Also used by unregistered resonance users trying to "fly under the radar" - dampens their signature enough to avoid ICR detection
+- Going rate: $400-800/dose depending on purity
+
+**Risks:**
+- No quality control. Batches vary wildly in ferrite concentration
+- Overdose causes complete anchor shutdown - users describe "falling into grey static"
+- Chronic use creates permanent resonance scarring. The dampening becomes irreversible
+- **Known fatalities:** 23 confirmed in Bay Area alone (2023-2025)
+
+**ICR's Position:**
+Publicly condemns it. Privately relieved it keeps ex-participants dependent on something rather than going to FRMC for actual deprogramming.
+
+**FRMC's Position:**
+Treats overdoses but won't prescribe equivalent. Viewing it as trading one cage for another.
+
+---
+
+### "Bloom" (Corrupted FRMC Formula)
+**Classification:** Black market fungal extract
+
+**Origin:**
+Stolen FRMC myco-resonant culture, now grown in unsanctioned environments without proper resonance field maintenance.
+
+**What It Should Be:**
+Patient-specific fungal infusions that realign anchors through consensual symbiosis.
+
+**What It Actually Is:**
+Generic fungal extract sold to anyone with cash, no patient-specific tuning, no consent ritual, no safety protocols.
+
+**Effects:**
+- **Short term:** Euphoric anchor amplification. Users feel "more themselves than ever"
+- **Medium term:** Anchor instability. The fungus wasn't attuned to them specifically, so it's trying to rewrite their resonance signature
+- **Long term:** Fungal colonization. Patients develop mycological infections that are also resonance-active. They start "fruiting"
+
+**Market:**
+- Sold to desperate resonance users who can't afford FRMC care
+- Also used by Type III/IV users trying to boost performance
+- Popular in underground resonance music scenes (amplifies harmonic abilities)
+
+**The Horror:**
+One known case involved a Type III Harmonic user who overdosed before a performance. Mid-concert, they started bleeding from the ears. The blood was full of fungal spores. The spores were singing.
+
+**FRMC's Response:**
+Issued warnings about corrupted cultures. Can't do much else without revealing their own pharmacological practices.
+
+**ICR's Response:**
+Uses it as propaganda. "This is what happens without proper institutional oversight."
+
+---
+
+### "Threadbare" (Stolen PRB Precursors)
+**Classification:** Corrupted bonding compound
+
+**Origin:**
+Corrupted FRMC formula, missing key stabilization components and the crucial consent framework.
+
+**What It Should Be:**
+Carefully calibrated compounds used as part of PRB protocols, administered only with full informed consent and medical supervision.
+
+**What It Actually Is:**
+Sold as "instant bonding" or "connection therapy" to desperate people.
+
+**Market:**
+- Partners trying to salvage failing relationships
+- Parents trying to "understand" resonance-active children
+- Predators targeting vulnerable resonance users
+
+**Effects:**
+- Creates temporary empathic link without the stabilization architecture of real PRB
+- Both parties experience partial ego dissolution and emotional bleeding
+- **Without proper anchoring:** Links destabilize violently after 6-12 hours
+
+**The Horror Stories:**
+- Domestic abusers using it to maintain control ("you can feel I love you, right?")
+- One case: buyer dosed an unwilling victim. Link formed. When it destabilized, both parties hemorrhaged emotionally. The victim survived. The perpetrator's anchor collapsed entirely - permanent psychotic break
+
+**FRMC's Response:**
+Treats the survivors. Documents every case as evidence of why consent isn't just ethical—it's mechanically necessary.
+
+**ICR's Response:**
+"This is why resonance compounds need institutional oversight." (Ignoring that their own oversight is often coercive.)
+
+**TPC's Response:**
+"The universe corrected the imbalance." (They're not entirely wrong, but the callousness is chilling.)
+
+---
+
+### "The Full Stop"
+**Classification:** Black market suicide method
+
+**Origin:**
+Unknown, but composition suggests someone with access to ICR, FRMC, and Prometheus formularies.
+
+**Composition:**
+- Nullwine (anchor shutdown)
+- PPTL-X447 (resonance amputation)
+- High-dose benzos
+- Respiratory depressant
+
+**Purpose:**
+Suicide method for resonance users.
+
+**Why It Exists:**
+Some collared participants would rather die than continue. Some ex-SAFE participants can't function without the structure and can't face deprogramming. Some unregistered users are terrified of ICR discovery.
+
+**The Full Stop** is marketed as "peaceful exit for the resonance-afflicted."
+
+**Effect:**
+- Anchor shutdown (Nullwine)
+- Resonance death (PPTL-X447)
+- Consciousness suppression (benzos)
+- Respiratory failure (depressant)
+
+User feels themselves dissolve without pain, without panic, without resonance awareness of what's happening.
+
+**All Three Factions' Response:**
+Horror. Genuine, unified horror.
+
+- **ICR:** Investigating source because this proves their containment system is creating suicidal ideation
+- **FRMC:** Offering emergency deprogramming because people are dying rather than seek help
+- **TPC:** Trying to trace distribution networks because "balance" doesn't include preventable death
+
+**The Worst Part:**
+It's effective. It's reliable. It's spreading.
+
+And everyone knows the demand exists because of institutional failures, but nobody can agree on which institution failed or how to fix it.
+
+---
+
+### Collar-Assisted Suicide (Method, Not Compound)
+**Classification:** Self-harm method using SAFE collar
+
+**Context:**
+Part of Mira Fallon's backstory. Demonstrates extreme psychological conditioning of SAFE program.
+
+**Method:**
+- Deliberately trigger the collar to maximum feedback
+- Sustain it until neurological failure
+- Usually involves forcing resonance use despite escalating CFL levels
+- The collar interprets this as "critical containment failure" and goes to interrogation-mode feedback
+
+**Why It's Difficult:**
+- Pain is extraordinary. Most people can't maintain the intentionality required
+- Survival instinct kicks in. You stop before you die
+- The collar's AI learns and starts implementing "suicide prevention protocols" if it detects the pattern
+- BSPs monitor for this specific behavior pattern
+
+**If You Survive:**
+- Catastrophic neurological damage likely
+- Permanent resonance scarring
+- Psychological trauma compounded
+- And you're still collared
+
+**Mira's Experience:**
+She tried. She got far enough that it should have worked. Something stopped her—maybe her own anchor, maybe Ava arrived, maybe the collar's failsafe kicked in differently than expected.
+
+She's been in SAFE for 3 years. She tried to die rather than continue. And she still believes she needs the program.
+
+That's the level of psychological conditioning we're talking about.
+
+---
+
+### Collar Burnout (Self-Defense Resonance Surge)
+**Classification:** Emergency physiological response, not a compound
+
+**The Mechanism:**
+- User's resonance spikes so violently it overwhelms the collar's suppression capacity
+- Ferrite systems can't handle the load
+- Collar literally shorts out—sometimes spectacularly
+
+**Conditions Required:**
+- Genuine life-threatening situation (fight-or-flight at maximum)
+- Complete disregard for personal safety
+- Usually involves Type-8 levels of reality distortion or equivalent hybrid surge
+- Essentially: resonance activation beyond what the collar was rated to contain
+
+**Consequences for Wearer:**
+- Massive resonance bleed (like electrical burn, but psionic)
+- Neurological damage from feedback cascade
+- Often permanent anchor scarring
+- Possible resonance amputation (lose abilities entirely)
+
+**Consequences for Handler/Nearby Personnel:**
+- If they were actively using transmitter controls: direct resonance backlash
+- Psychic feedback through the control interface
+- Usually severe neurological trauma, sometimes vegetative state
+
+**ICR's Position:**
+This is why they insist handlers need training. (Reality: this is why handlers shouldn't abuse the controls, but ICR doesn't say that part.)
+
+**Documented Cases:**
+Rare, but known. Usually involves someone being actively tortured via transmitter. BSPs are trained to recognize the pre-surge patterns and back the fuck off before it happens.
+
+**Ava's Training:**
+She knows the signs. She's seen case files. One reason she's so careful with Sciara—she knows pushing too hard could trigger burnout, and given Sciara's hybrid anchors, that surge could take out half a floor.
+
+**Historical Context:**
+Aria Shahrazai's case (2012-2013) involved a burnout event. Her BSP pushed too hard once too often. Bad things happened. Nobody was particularly surprised at that outcome. The event nearly killed Aria; the accidental PRB with Alexander was literally life-saving but happened under profoundly non-ideal circumstances.
+
+---
+
+## Grey Market Compounds
+
+### "Damper Dots" (ICR Informal Nickname)
+**Classification:** Off-label anxiolytic
+
+**Origin:**
+ICR pharmacy, but never formally approved. Prescribed "off-label" by sympathetic BSPs who know the collar feedback is engineered to be addictive.
+
+**Mechanism:**
+- Sublingual tabs containing low-dose benzodiazepine analogues + trace ferrite
+- Blunts the panic of resonance activation without actually dampening the resonance itself
+- Basically treats the psychological symptom (fear of loss of control) rather than the resonance
+
+**Market:**
+- Prescribed to SAFE participants "having trouble adjusting"
+- BSPs like Ava know exactly what these are: a band-aid over a bullet wound
+- Some participants hoard them, knowing ICR could cut off supply at any time
+
+**The Trap:**
+- Participants think they need them to function
+- Reality: They need them because the collar's feedback loops have conditioned them to panic at any resonance fluctuation
+- ICR frames prescription as "compassionate care." It's actually dependency maintenance
+
+**Ava's Private Notes:**
+She prescribes them, documents them, and hates herself for it. But watching someone have a panic attack in public because their collar spiked to CFL 3 is worse.
+
+---
+
+### Nullwine (Cross-Institutional Experimental)
+**Classification:** Anchor nullification compound
+
+**Overview:**
+A rare cross-institutional project—an attempt to chemically induce temporary anchor nullification for safe collar removal.
+
+**Mechanism:**
+- Mix of ketamine analogues, ferrite stabilizers, and EVE-binding hemoglobin substitutes
+- Floods bloodstream with resonance-inert "carrier fields," essentially muting anchor expression for ~90 minutes
+
+**Applications:**
+- Trialed in collar removal procedures where PRB is unavailable
+- Sometimes used in interrogations—renders subject "anchorless" and profoundly disoriented
+
+**Risks:**
+- Extreme identity destabilization. Patients describe "falling out of themselves"
+- If used repeatedly, may cause permanent anchor silencing, a state likened to resonance amputation
+
+**ICR Application (Undocumented):**
+When they need to interrogate a collared participant but the collar's feedback is interfering with questioning, they dose with Nullwine. Subject becomes "anchorless" - can't lie effectively because they can't access the resonance that would help them maintain coherent deception.
+
+**The Ethical Nightmare:**
+- Subject is chemically disconnected from their own identity
+- ICR frames this as "medical stabilization during questioning"
+- Participants report it as "being erased"
+
+**Sevron's Private Stock:**
+She keeps a personal supply. Uses it on participants she suspects of lying about their capabilities. Also uses it on herself occasionally - brief chemical vacation from Type-8 instability. Dangerous as hell but she's calculated it's worth the risk.
+
+---
+
+### "Symmetra" (Unattributed)
+**Classification:** Hybrid-stabilization compound
+
+**Mechanism:**
+- Dual-delivery system: a nanoparticle suspension (ICR method) + ritual resonance infusion (FRMC method)
+- Temporarily stabilizes cross-type hybrids (rare but unstable resonance users)
+
+**Effect:**
+Provides stability for individuals with multiple anchor modalities who experience instability from competing resonance types.
+
+**Risks:**
+Overstabilization can "fossilize" anchors, freezing them in maladaptive patterns.
+
+**Cover Story:**
+Each side blames the other for the formula's origin, but both use it in quiet desperation.
+
+**The Reality:**
+ICR secretly tests nanoparticle carriers (their tech) but FRMC claims it's "herbal suspensions." ICR quietly studies communal infusion rituals for their field-coherence effect—they just strip out the consent and branding, calling it "group harmonization therapy."
+
+---
+
+## Discontinued ICR Formulary (Under-the-Table)
+
+### "Steadfast" (ICR-2890)
+**Official Status:** Discontinued 2019 due to "updated safety protocols"
+
+**Real Reason:**
+It worked too well at stabilizing anchors, making participants less dependent on collars. Bad for retention metrics.
+
+**What It Does:**
+- Synthetic anchor stabilizer, works across all types
+- Reduces resonance volatility without dampening capacity
+- Essentially: makes people actually stable, not just controllable
+
+**Who Still Prescribes It:**
+- BSPs like Ava who care more about patient outcomes than institutional goals
+- Medical staff who remember when treatment was the actual priority
+- Usually documented as "vitamin supplements" or "electrolyte protocols"
+
+**The Risk:**
+If ICR administration notices a BSP's participants are stabilizing too well, questions get asked. Participants who don't need collars anymore are bad for the program's legitimacy narrative.
+
+---
+
+### "Kindness" (No Official Designation)
+**Official Status:** Never approved, technically shouldn't exist
+
+**Origin:**
+BSPs started mixing it themselves from pharmacy supplies
+
+**What It Does:**
+- Mild euphoric + anti-anxiety effect
+- Makes collar feedback slightly less traumatic
+- Doesn't interfere with collar function, just makes living with it bearable
+
+**Composition:**
+- Low-dose SSRI analogue
+- Trace ferrite suspension (makes it compatible with collar systems)
+- Sometimes mild muscle relaxant (reduces the physical tension response)
+
+**Who Prescribes It:**
+- BSPs who can't watch their participants suffer anymore
+- Medical staff who know the collars cause psychological harm
+- Usually given as "adjustment support" with vague documentation
+
+**The Ethics:**
+Is it harm reduction or enabling a harmful system? BSPs fight about this. Ava prescribes it and hates herself for it. But watching someone have panic attacks daily is worse.
+
+---
+
+### "Recall" (ICR-3400-Sigma)
+**Official Status:** Discontinued 2021, all stock supposedly destroyed
+
+**Real Reason:**
+It reversed some psychological conditioning from early SAFE protocols. ICR couldn't have that.
+
+**What It Does:**
+- Helps restore pre-collar memory clarity
+- Reduces regression effects
+- Essentially undoes some of the learned helplessness
+
+**Who Still Has It:**
+- A few senior BSPs who kept personal stock
+- FRMC obtained samples (legitimately or otherwise)
+- Black market, but rare and expensive
+
+**Current Use:**
+- Given covertly to participants showing signs of severe regression
+- Used in FRMC deprogramming protocols
+- Sometimes slipped to participants before they're transferred to FRMC care
+
+**Why It's Dangerous:**
+If ICR catches a BSP with Recall, it's immediate termination and possible prosecution. They really don't want participants remembering who they were before the collar.
+
+---
+
+## Prenatal Care Protocols
+
+### The Fundamental Problem
+Pregnancy + active resonance use = competing EVE demands. The fetus is literally siphoning life-force, and if the parent is using resonance abilities, they're drawing from a depleted pool.
+
+### SAFE Collar Use and Pregnancy Complications
+
+**Long-Term EVE Damage:**
+During SAFE collar use, particularly in cases involving sustained high-stress feedback:
+- User's resonance is being suppressed/controlled by collar
+- But instinct to use resonance abilities (especially for healers) remains active
+- Every time the collar spikes, the body tries to heal itself from the feedback
+- Essentially: forced to use life-force healing on self, repeatedly, under duress
+- This drains EVE reserves to dangerous levels
+
+**Reproductive Impact:**
+- Body's regenerative systems, including reproductive capacity, become compromised
+- Baseline EVE reserves may never fully recover
+- Pregnancy requires significant EVE investment (literally growing another person)
+- Healing abilities make it worse—body tries to heal/support pregnancy but can't sustain it
+- Result: increased miscarriage risk, high-risk pregnancies
+
+**Aria Shahrazai's Case:**
+- SAFE collar use 2012-2013 caused permanent EVE damage
+- Multiple miscarriages due to insufficient life-force reserves
+- PRB with Alexander helps by distributing EVE load between them
+- Without that link, she probably couldn't carry to term at all
+- Current twin pregnancy is extremely high-risk even with PRB support
+
+### Standard FRMC Prenatal Protocol (Resonance-Active Patients)
+
+**First Trimester:**
+- Immediate resonance capacity assessment
+- EVE baseline establishment (daily monitoring early on, then weekly)
+- Restrict professional resonance use to emergency-only
+- Begin Aureotrope supplementation (goldenroot + donor EVE compound)
+
+**Second Trimester:**
+- Shield integrity monitoring (pregnancy hormones can destabilize psionic shields)
+- Anchor fluctuation tracking (some anchors shift during pregnancy)
+- Vitalis Nacre for membrane strengthening (mollusk-derived compound)
+- Partner/support person EVE compatibility testing (can they help carry the load?)
+
+**Third Trimester:**
+- 24/7 shield monitoring if high-risk
+- Prepared emergency PRB protocols (in case of hemorrhagic resonance failure during labor)
+- Labor prep includes harmonic dampening fields in delivery room
+- Post-partum: extended recovery with continued EVE supplementation
+
+**Aria's Specific Protocol (High-Risk + Twins):**
+- All of the above, but intensified
+- Alexander's PRB connection is load-bearing (literally distributing EVE demand)
+- She's on modified bed rest—no professional healing work
+- Probably taking Somnivir (autologous stem-cell sleep compound) because stress makes everything worse
+- FRMC has emergency blood reserves keyed to her genetic signature (in case of hemorrhagic complications)
+- Taking Aureotrope regularly to boost EVE capacity
+- May be using Luminase to improve EVE circulation efficiency
+
+### ICR Prenatal Care Approach
+
+**ICR's Approach:**
+- Collar stays on "for safety"
+- "Pregnancy hormones can destabilize resonance—we're protecting you AND the baby"
+- Heavy monitoring, lots of restrictions
+- Resonance use forbidden entirely (collar enforces this)
+
+**The Reality:**
+- Collared pregnancy has higher complication rates
+- The collar's feedback interferes with natural EVE regulation
+- But ICR doesn't publish those statistics
+- Participants who miscarry while collared are told "your resonance was too unstable—the collar saved your life"
+
+**The Dark Implication:**
+Some SAFE participants are pressured toward termination. "You're not stable enough to carry safely. Let's wait until you've graduated the program." (Graduation that never comes.)
+
+### Pregnancy Complications by Resonance Type
+
+**Type I (Somatic-Kinetic) - Healers:**
+- Highest risk: instinctively try to heal/support pregnancy, depleting EVE dangerously
+- Body prioritizes fetus over self, can lead to maternal collapse
+- Require strict restrictions on professional healing work
+- May need PRB or heavy EVE supplementation to carry safely
+
+**Type II (Neuro-Affective) - Empaths:**
+- Emotional bleeding with fetus creates feedback loops
+- Can't distinguish own emotions from developing consciousness
+- Pregnancy hormones amplify empathic sensitivity
+- Risk of emotional destabilization, especially if fetus is also resonance-active
+- Require shield reinforcement and emotional grounding protocols
+
+**Type III (Harmonic-Acoustic):**
+- Sound sensitivity becomes extreme during pregnancy
+- Fetal heartbeat can trigger involuntary harmonic resonance
+- Risk of accidentally influencing fetal development through harmonic fields
+- May need sound-dampening environments, careful control of harmonic exposure
+
+**Type IV (Semantic-Linguistic):**
+- Language processing becomes chaotic with pregnancy brain fog
+- Symbolic connections between concepts may destabilize
+- Risk if working with sigils or semantic resonance during pregnancy
+- Generally lower risk than other types but requires monitoring
+
+**Type V (Cognitive-Structural):**
+- Logic/pattern processing affected by pregnancy hormones
+- Mathematical/systemic thinking may become unreliable
+- Risk of anchor instability if professional work requires precise cognitive resonance
+- Usually manageable with reduced workload
+
+**Type VI (Techno-Mimetic):**
+- Technology interaction becomes unpredictable
+- Electromagnetic sensitivity increases
+- Fetus may be affected by parental tech-resonance
+- Require careful monitoring of tech exposure for both parent and fetus
+
+**Type VII (Archetypal-Mnemonic):**
+- Pregnancy activates archetypal mother/creator resonances involuntarily
+- May experience memory bleed with collective maternal experiences
+- Risk of losing individual narrative in archetypal currents
+- Require strong narrative anchoring and identity reinforcement
+
+**Type VIII (Narrative-Causal):**
+- Extremely high risk: reality-bending abilities unpredictable during pregnancy
+- Hormonal changes can destabilize causality manipulation
+- Risk to both parent and fetus from narrative instability
+- Generally advised against pregnancy without extreme precautions
+- Would require constant monitoring and possibly containment measures
+
+---
+
+## Cross-Species Pharmaceutical Complications
+
+### Case Study: Silicon-Based Entity (Crystalline Physiology)
+
+**Patient Profile:**
+- Consciousness housed in crystalline matrix structure
+- Resonance conducted through lattice vibrations rather than neural pathways
+- "Blood" is actually a piezoelectric fluid
+
+**Pharmaceutical Challenges:**
+- Most organic compounds don't work (no carbon-based metabolism)
+- Resonance dampeners designed for neural tissue are useless
+- Pain management is a nightmare (what does pain even mean for a crystal entity?)
+
+**FRMC Solution:**
+- Harmonic frequency treatments (Type III specialists)
+- Lattice stabilization through carefully tuned vibration
+- "Medication" is essentially controlled sound exposure
+- Patient-specific frequency protocols developed through resonance testing
+
+**ICR Approach:**
+- Electromagnetic suppression fields (brute force)
+- Essentially a collar, but field-based instead of physical
+- Doesn't treat underlying issues, just contains the entity
+- No consideration for patient comfort or long-term health
+
+---
+
+### Case Study: Temporal Displacement Patient
+
+**Patient Profile:**
+- Human, but experiencing non-linear time
+- From patient's perspective, treatment happens in the wrong order
+- Medication administered Tuesday might be metabolized Friday from their POV
+
+**Pharmaceutical Nightmare:**
+- Drug interactions happen across time
+- Overdose/underdose unpredictable
+- Patient might experience withdrawal before they've received the drug
+- Treatment outcomes may occur before treatment is administered
+
+**FRMC Approach:**
+- Time-anchored medication protocols (compounds that "lock" to patient's subjective timeline)
+- Requires Type V Cognitive specialists to calculate dosing schedules
+- Heavy use of mnemonic stabilizers to keep patient temporally oriented
+- Eidolon used to strengthen narrative continuity across temporal displacement
+
+**ICR Approach:**
+- Full containment, no medication
+- "Too dangerous to treat, we'll just keep them stable in temporal isolation"
+- Essentially giving up
+- Patient exists in permanent liminal state
+
+---
+
+### Case Study: Collective Consciousness Fragment
+
+**Patient Profile:**
+- Part of a larger gestalt that was traumatically separated
+- Experiences phantom sensation from "missing" parts of self
+- Individual identity is unstable
+
+**Pharmaceutical Challenges:**
+- Standard psychiatric meds don't work (brain chemistry is fine, the problem is ontological)
+- Resonance stabilizers might work, but which anchor? The fragment doesn't have a single anchor
+- Identity keeps trying to merge with nearby consciousness
+
+**FRMC Approach:**
+- Mnemonic reconstruction therapy (helping them build an individual narrative)
+- Eidolon (TPC compound that strengthens narrative continuity)
+- Group therapy with other fragments—sometimes they can stabilize each other
+- Goal: Help them become an individual OR reconnect them with their gestalt (patient's choice)
+
+**TPC Approach:**
+- Similar to FRMC but more willing to use aggressive archetypal binding
+- "You were part of a whole. Now you are a new whole. We'll help you become that"
+- Sometimes works beautifully, sometimes creates false identity
+- More focused on creating stable narrative than patient autonomy
+
+**ICR Approach:**
+- Treat as containment problem
+- Keep isolated (group therapy might be "dangerous")
+- Heavy sedation, lots of Nullwine
+- Goal is stability, not healing
+- No consideration for patient's desire to reconnect with gestalt
+
+---
+
+### The Hybrid Offspring Problem
+
+**Scenario:** Human parent + non-human parent = child with extremely unpredictable physiology
+
+**Example: Human/Fae Hybrid Child**
+
+**Medical Challenges:**
+- Which medications work? Human doses? Fae doses? Something in between?
+- Resonance presentation is unstable (switching between human and fae anchors)
+- Growth rate unpredictable (fae mature differently)
+- Dietary needs are bizarre (iron sensitivity from fae side, but human nutritional needs)
+
+**FRMC Approach:**
+- Individualized care plans, lots of trial and error
+- Pediatric specialists who work with hybrid children
+- Family-centered care (both parents involved in medication decisions)
+- Experimental compounds designed for hybrid metabolism
+- May use Luminase or other cross-species adaptable compounds
+- Careful monitoring for which parent's biochemistry dominates at different developmental stages
+
+**ICR Approach:**
+- "Standardized hybrid protocols" (one-size-fits-all)
+- Often doesn't work, blamed on "inherent hybrid instability"
+- Pressure to collar early "for their own safety"
+- Little consideration for developmental differences
+- Parents often excluded from treatment decisions
+
+**Black Market Reality:**
+When hybrid families can't access proper care (FRMC expensive, ICR coercive), they turn to black market compounds. Results are unpredictable and often dangerous. Some hybrid children develop permanent complications from improperly adapted medications.
+
+---
+
+### Consent Issues with Non-Sapient Entities
+
+**The Philosophical Nightmare:**
+What if the entity is sentient but doesn't communicate in ways humans recognize?
+
+**Example: Mycelial Network Patient**
+
+**Patient Profile:**
+- It's intelligent, but thinks in timescales of months
+- Communication happens through chemical signals
+- Distributed consciousness across entire fungal colony
+- No clear "individual" to give consent
+
+**FRMC's Approach:**
+- Wait. Sometimes for weeks
+- Use Type VII specialists (archetypal/mnemonic) to try to communicate
+- Only treat when they're confident consent was given
+- Sometimes this means the patient dies waiting
+- Recognize that "individual consent" may not apply to distributed consciousness
+- May seek consensus from colony rather than individual response
+
+**ICR's Approach:**
+- "If we can't confirm sapience, we treat it as non-sapient"
+- Immediate intervention without consent
+- Better survival rates, but at what ethical cost?
+- Often involves destructive containment procedures
+- No consideration for distributed consciousness models
+
+**TPC's Position:**
+- "All consciousness deserves sovereignty"
+- Most likely to wait for consent
+- Also most likely to accept "the patient chose death by refusing treatment" as a valid outcome
+- Willing to experiment with novel communication methods
+- May use archetypal resonance to bridge communication gaps
+
+---
+
+### Cross-Species Pharmaceutical Development Challenges
+
+**Failed Experiments:**
+- Human cardiovascular drugs that caused crystalline entities to shatter
+- Fae analgesics that induced permanent catatonia in humans
+- Compounds designed for distributed consciousness that fragmented individual human psyches
+- Temporal stabilizers that locked patients in single moment indefinitely
+
+**Successful Adaptations:**
+- Luminase works across many species due to its base in universal resonance frequencies
+- Some FRMC fungal compounds show cross-species efficacy if properly attuned
+- Harmonic treatments often translate well to non-human physiology
+- Blood-based compounds can sometimes be adapted if biochemistry is compatible
+
+**The Economics:**
+- Cross-species pharmaceutical research is expensive
+- Most compounds tested only on humans
+- Non-human entities often receive human medications "off-label" with unpredictable results
+- FRMC does most cross-species research but lacks funding
+- ICR focuses on containment rather than treatment for non-human entities
+- Black market fills gaps with dangerous untested formulations
+
+---
+
+## Notes for Future Development
+
+### Areas for Expansion:
+1. Pregnancy complications specific to different resonance types (covered above)
+2. Black market cross-species medications
+3. Failed cross-species pharmaceutical experiments (partially covered)
+4. Compounds designed for specific non-human species
+5. Addiction and dependency patterns across different formulations
+6. Long-term health consequences of various compounds
+7. Interactions between multiple compounds (polypharmacy complications)
+8. Emergency protocols for pharmaceutical disasters
+9. Regulatory frameworks governing anomalous pharmacology
+10. Historical evolution of anomalous pharmaceutical development
+
+### Institutional Tensions:
+- FRMC wants to publish cross-species pharmaceutical research but can't without revealing resonance existence
+- ICR sits on safety data that would undermine their programs
+- TPC's "volunteer" research often involves coerced consent
+- Prometheus cuts corners and creates black market disasters
+- No unified pharmaceutical standards across institutions
+- Summit Council attempts at regulation often fail due to institutional resistance
+
+---
+
+*This document represents current knowledge as of September 2025. Formulations, applications, and institutional practices continue to evolve.*
