@@ -27,7 +27,15 @@ This document defines how user requests are processed, routed to appropriate arc
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  3. PLANNING                                                │
+│  3. RESEARCH (Optional)                                     │
+│     - Identify knowledge gaps for authentic content         │
+│     - Web search for medical/legal/technical accuracy       │
+│     - Ground fictional elements in real-world scaffolding   │
+│     - Skip if confident in existing knowledge               │
+└─────────────────────┬───────────────────────────────────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│  4. PLANNING                                                │
 │     - Determine which arc(s) this touches                   │
 │     - Check cross-arc dependencies                          │
 │     - Identify continuity constraints                       │
@@ -35,7 +43,7 @@ This document defines how user requests are processed, routed to appropriate arc
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  4. GENERATION                                              │
+│  5. GENERATION                                              │
 │     - Create content per SHEPHERD format                    │
 │     - Apply character voices from dossiers                  │
 │     - Maintain documentary authenticity                     │
@@ -43,7 +51,7 @@ This document defines how user requests are processed, routed to appropriate arc
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  5. QA CHECK                                                │
+│  6. QA CHECK                                                │
 │     - Verify timeline consistency                           │
 │     - Check canon compliance                                │
 │     - Validate character knowledge states                   │
@@ -51,7 +59,7 @@ This document defines how user requests are processed, routed to appropriate arc
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  6. DELIVERY                                                │
+│  7. DELIVERY                                                │
 │     - Write document to appropriate arc folder              │
 │     - Update arc _ARC_STATE.md                              │
 │     - Update MASTER_STATE.md                                │
@@ -123,7 +131,62 @@ Identify:
 
 ---
 
-## STEP 3: PLANNING
+## STEP 3: RESEARCH (Optional)
+
+This step is **at the model's discretion**. Use when uncertain about real-world processes that underpin the fiction. Quality matters more than speed—take time to get it right.
+
+### When to Research
+
+| Situation | Example | Tool |
+|-----------|---------|------|
+| **Medical accuracy** | Lupus flare protocols, TBI rehab timelines, aphasia progression | WebSearch |
+| **Legal procedure** | Subpoena enforcement, jurisdictional challenges, deposition rules | WebSearch |
+| **Accessibility authenticity** | Screen reader behavior, guide dog protocols, MS management | WebSearch |
+| **Pharmacology grounding** | Real drug interactions the fictional compounds build on | WebSearch |
+| **Institutional realism** | How hospital ethics committees actually work | WebSearch |
+| **Technical details** | EEG readings, neuroimaging terminology | WebSearch |
+
+### When NOT to Research
+
+- Already confident from training knowledge
+- Pure fiction with no real-world analog
+- Minor details that don't affect immersion
+- Would delay without meaningful quality gain
+
+### Research Output
+
+If research is performed, note findings briefly:
+
+```markdown
+## Research Notes
+
+**Topic:** [What was researched]
+**Finding:** [Key takeaway]
+**Application:** [How this applies to the content]
+```
+
+These notes can be discarded after generation or kept in session log if useful for continuity.
+
+### Available Tools
+
+| Tool | Use For |
+|------|---------|
+| `WebSearch` | General queries, current practices, terminology |
+| `WebFetch` | Specific URLs if a good source is identified |
+| Project files | `RESONANCE UNIVERSE.txt` for in-world pharmacology |
+
+### Judgment Call
+
+This step exists to improve authenticity. If you're unsure whether to research:
+- Will this detail be noticed by someone who knows the field?
+- Would getting it wrong break immersion?
+- Is there a real-world process I'm trying to mirror?
+
+If yes to any, research is probably worth it.
+
+---
+
+## STEP 4: PLANNING
 
 ### Arc Routing Matrix
 
@@ -169,7 +232,7 @@ Before generating, verify:
 
 ---
 
-## STEP 4: GENERATION
+## STEP 5: GENERATION
 
 ### Format Compliance
 
@@ -198,7 +261,7 @@ Verify:
 
 ---
 
-## STEP 5: QA CHECK
+## STEP 6: QA CHECK
 
 ### Timeline Validation
 
@@ -234,7 +297,7 @@ If document involves Sciara:
 
 ---
 
-## STEP 6: DELIVERY
+## STEP 7: DELIVERY
 
 ### File Placement
 
