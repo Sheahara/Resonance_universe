@@ -199,9 +199,9 @@ He made himself let go of her hand. Made himself walk to the door. Made himself 
 
 They walked in together, and Collin heard Mira's sharp intake of breath.
 
-Three months. It had only been three months since the last time Mira had seen Sciara—briefly, awkwardly, at an ICR function neither of them had wanted to attend. Three months shouldn't make this much difference. Three months shouldn't turn a vibrant, brilliant woman into this hollow-eyed figure struggling to count past fifteen.
+Mira had been working with Sciara since April—peer support, adjustment counseling, the kind of careful presence that helped someone learn to live with a collar around their throat. She'd watched Sciara struggle and adapt and fight. She'd seen the bad days. But she hadn't seen *this*. Not this hollow-eyed figure who couldn't track a conversation, couldn't count past fifteen, couldn't do any of the things that had made her *Sciara*.
 
-"Oh," Mira said softly. "Oh, Sciara."
+"Oh," Mira said softly. "Oh, Sciara. What happened to you?"
 
 Sciara's eyes found her. Something moved across her face—recognition, confusion, fear—and the collar's hum spiked again. The light went from red to flashing red.
 

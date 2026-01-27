@@ -21,6 +21,14 @@ Mira Fallon has broken her silence about the March 31, 2026 containment breach. 
 
 **Note:** In this simulation, Mira is NOT collared. She is present at Ava's home as a close friend ("practically family").
 
+### Mira's Role in Sciara's Care
+
+Since April 2026, Mira has been actively working with Sciara alongside Ava:
+- Peer support and adjustment counseling
+- Helping Sciara adapt to life with the collar
+- Regular contact - has witnessed the gradual deterioration firsthand
+- Her shock at Sciara's current state is from seeing how much WORSE things have gotten, not from absence
+
 ---
 
 ## Eyewitness Testimony (Unrecorded)
