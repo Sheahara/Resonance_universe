@@ -91,10 +91,20 @@ This is evidence of pre-planning, not just unusual protocol. That's what's damni
 - **Location:** FRMC (on call)
 - **Status:** Will ride in ambulance to San Rafael
 - **Medical Status:** 14-15 weeks pregnant (twins)
+- **PRB Status:** Has existing protective reciprocal binding with Alexander (formed 2013, different ICR site, accidental during emergency in SAFE program)
 
 ### Alexander Shahrazai
 - **Location:** With Aria
 - **Status:** Will accompany ambulance
+- **PRB Status:** Bound to Aria since 2013
+- **Intel:** Has contacts at PPTL (technical side, not management) - may be able to obtain master auth token
+
+### Dr. Shea Eccari
+- **Location:** FRMC
+- **Role:** Resonance diagnostics specialist, aura reader
+- **Disability:** Blind (not featured as superpower - just is, like Aria's pregnancy or Mira's Type I diabetes)
+- **Guide Dog:** Gideon, black German Shepherd
+- **Assessment:** Has never seen damage this severe; identified Sciara's "safe room" defense and the PRB necessity
 
 ### Talia Sevron
 - **Location:** ICR Site-17 (presumed)
@@ -201,6 +211,81 @@ Filed by:
 - Private ambulance service to avoid ICR monitoring
 - ICR monitors emergency channels - must circumvent
 
+### Institutional Timeline
+- **T+6 hours:** ICR will be notified of transfer and rationale
+- **T+6 hours:** Technical Standards board notified (can't intervene but will be aware)
+- **T+48 hours:** ICR must provide their "narrative" explaining what happened
+- **Key advantage:** FRMC doesn't have to disclose patient status - Collin threw ICR off Sciara's chart
+- **Additional friction:** Collin cited inability to treat and questioned Sevron's competence
+
+### Sevron's Expected Response (If Sciara Dies)
+- Assume tragic natural causes
+- Settle with Collin, pay medical bills
+- Require thick NDAs
+- Demand return of collar (without tampering or damage)
+- **Problem for her:** This plan fails if FRMC saves Sciara OR discovers collar internals
+
+---
+
+## PROMETHEUS TECHNICAL INTEL
+
+### Device Identification
+- **Serial number suffix:** Custom PPTL work has ".spec" suffix
+- **Audit access:** Summit Council has access to Prometheus database via current administrative audit
+- **Sciara's collar:** Confirmed .spec suffix - custom build to order
+
+### Collar Removal Strategy
+
+#### The Problem
+- Device locked at maximum suppression, not responding to external overrides
+- Custom AI trained to interpret any unusual activity as threat
+- Direct tampering triggers failsafe
+- Failsafe = fries remaining neural pathways
+
+#### The Plan
+1. **Establish PRB first** - Collin's field provides buffer/stabilization
+2. **Distract the AI** - Feed it fake maintenance emergencies, keep it busy
+3. **Redirect failsafe discharge** - When tampering detected, energy pulse needs alternative path
+4. **Use PRB as lightning rod** - Collin's field absorbs/dissipates discharge (unpleasant but not fatal)
+5. **Capture data transmission** - Failsafe will "shriek" then transmit full operational log to home server before bricking
+6. **The prize:** That transmission = timestamped confession of everything the device did
+
+#### Dual Authorization Problem
+- Device likely requires dual auth for master override
+- Alexander's contacts may provide one token
+- Sevron has the other code (and won't give it up)
+- May need to trigger failsafe intentionally rather than cleanly override
+
+---
+
+## PROTECTIVE RECIPROCAL BINDING (PRB)
+
+### What It Is
+- Permanent lifebond between two resonance-capable individuals
+- Functions like external fixator for broken bones
+- One field stabilizes/protects the other during healing
+- Irreversible
+
+### Why It's Necessary
+- Sciara's field too damaged to stabilize independently
+- She's built a "safe room" in her mind - last-ditch defense protecting core identity
+- Only Collin's signature allowed through those defenses
+- PRB uses existing D/s dynamic as foundation
+- Without it: field fragments when safe room fails (hours, not days)
+- With it: Collin's field reinforces hers during healing
+
+### Consent Issues
+- Sciara cannot consent (lacks capacity)
+- Collin must consent with full knowledge of permanence
+- Ava acting as guardian ad litem equivalent
+- Procedure authorized under emergency medical provisions
+
+### Precedent
+- Aria and Alexander have existing PRB (2013)
+- Formed accidentally during emergency in SAFE program
+- Different ICR site
+- Has become integral to their relationship
+
 ---
 
 ## BURNED BRIDGES
@@ -209,9 +294,41 @@ Filed by:
 
 ---
 
+## PROTECTION STATUS
+
+### Ava Kessler
+- **Cover status:** NOT burned - nothing she's done violates policy
+- **Legal exposure:** None - inter-agency transfer is within her authority
+- **Risk if returns to ICR:** Extreme - Sevron will attempt to make life difficult
+- **Extraction path:** FRMC protective request (Amara will sign)
+
+### Mira Fallon
+- **Cover status:** N/A - not an operative
+- **Current situation:** Not in ICR custody, lives on-site for logistical reasons only
+- **Risk level:** NOT a safety risk, doesn't require intensive monitoring
+- **Paperwork:** Not arduous to extract
+- **Extraction path:** FRMC protective request (Amara will sign)
+- **Note:** Sevron will likely be more worried about murder charges than retaliation, but who knows
+
+---
+
 ## EVIDENCE INVENTORY
 
-*To be populated as simulation progresses*
+### Confirmed Evidence
+| Item | Status | Significance |
+|------|--------|--------------|
+| Collar serial number (.spec suffix) | Documented | Proves custom Prometheus build |
+| Scanner diagnostic data | Captured during transport | Shows VII Adaptive in VI housing |
+| Mira's eyewitness testimony | Verbal only | Pre-planning evidence (collar pre-calibrated) |
+| Ava's backdoor readings | Historical | Shows deterioration pattern |
+| Transfer authorization | Documented | Collin cited inability to treat |
+
+### Potential Evidence (If Plan Succeeds)
+| Item | Status | Significance |
+|------|--------|--------------|
+| Failsafe data transmission | Pending capture | Timestamped operational log = confession |
+| Device forensics | Pending removal | Full documentation of modifications |
+| Prometheus database records | Accessible via audit | Authorization chain for .spec device |
 
 ---
 
