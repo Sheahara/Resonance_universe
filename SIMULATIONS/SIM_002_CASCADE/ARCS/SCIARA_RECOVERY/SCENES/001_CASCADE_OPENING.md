@@ -77,17 +77,17 @@ Mira was waiting in the hallway, already pulling on her jacket. "I need to get a
 
 "Mira." Ava caught her arm. "You don't have to come. You understand what this might—"
 
-"I understand." Mira's voice was quiet but firm. "I was there, Ava. March thirty-first. I was the one who called for medical after the containment breach. I *watched* Sevron fit that collar herself, before anyone else arrived. I've been carrying that for three months and I couldn't do anything with it because what was I going to say? Who was I going to tell?"
+"I understand." Mira's voice was quiet but firm. "I was there, Ava. March thirty-first. I was the one who called for medical after the containment breach. Everyone knows Sevron placed that collar herself—she made a whole thing about it being appropriate given Sciara's position, the complexity of the breach." Mira's jaw tightened. "But I saw something they didn't."
 
-She'd never actually said it out loud before. Ava had suspected—had pieced it together from the way Mira flinched whenever Sciara's case came up—but this was the first time.
+Ava waited.
 
-"She placed it herself?"
+"She was already in the room when I got there. Said she'd been passing by and heard the alarm. Said she stabilized the situation." Mira's voice dropped. "But Ava, she had the collar *with* her. Already calibrated. Already keyed to Sciara's resonance signature. You don't just have those lying around. You don't just *happen* to have one ready, pre-configured for a specific person."
 
-"She was already in the room when I got there. Said she'd been passing by and heard the alarm. Said she stabilized the situation. But Ava, she had the collar *with* her. Already calibrated. Already keyed to Sciara's resonance signature." Mira's jaw tightened. "You don't just have those lying around. You don't just *happen* to have one ready."
+Ava felt something cold settle in her stomach. "You're saying she was waiting. That it was planned."
 
-Ava felt something cold settle in her stomach. "You're saying it was planned. The breach, all of it."
+"I'm saying I've been living on-site at ICR for two years, sleeping down the hall from that woman's office, and I couldn't figure out who to tell or what to even say. 'The medical director had a collar ready before the emergency happened?' It sounds paranoid. It sounds crazy." Mira met her eyes. "But you don't think I'm crazy, do you?"
 
-"I'm saying I don't know what I'm saying. I'm saying I need to see this through."
+"No," Ava said quietly. "I don't."
 
 "Sevron will know you were there. When this plays out, she'll know you were involved."
 
@@ -259,7 +259,7 @@ Alexander handed Aria a device Collin didn't recognize—sleek, white, humming w
 
 Everyone looked at her.
 
-"I was there," Mira said. "When they put the collar on. Sevron already had it. Already calibrated. She was waiting."
+"Everyone knows Sevron placed the collar herself," Mira said. "But I was the first responder to that breach. I was the one who called for medical. And when I got there, she was already in the room with the collar in her hands. Already calibrated. Already keyed." She looked at Collin. "You don't pre-configure a suppression device for a specific person unless you're expecting to use it on them."
 
 Silence. The collar hummed. Sciara whimpered.
 

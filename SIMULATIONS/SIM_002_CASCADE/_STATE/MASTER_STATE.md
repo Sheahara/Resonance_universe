@@ -16,6 +16,17 @@
 
 ---
 
+## PLAYER CHARACTER
+
+### Amara Rivani
+- **Position:** Summit Council Member Thirteen
+- **Background:** Tapped from Paragon Collective intelligence
+- **Former Role:** Interrogator with truth-finding certifications
+- **Resonance Type:** II/IV (in order of dominance)
+- **Case Assignment:** Flagged due to ethics complaint cluster filed and withdrawn (May-June 2026)
+
+---
+
 ## TIMELINE ADJUSTMENTS (vs. Canon 2025)
 
 All events shifted forward one year:
@@ -60,9 +71,21 @@ All events shifted forward one year:
 
 ### Mira Fallon
 - **Location:** Ava's home (guest, practically family)
+- **Residence:** Lives ON-SITE at ICR Site-17 (logistical/housing arrangement)
 - **Status:** NOT collared in this simulation
-- **Knowledge:** Witnessed containment breach on 03/31, knows Sevron placed collar herself
-- **Vulnerability:** Easy target for Sevron's threats
+- **Vulnerability:** Extremely exposed - lives where Sevron works, cannot escape proximity
+- **Critical Knowledge:** See below - not the placement itself (that's common knowledge) but evidence of *pre-planning*
+
+#### What Mira Actually Knows (vs. Common Knowledge)
+**Common knowledge:** Sevron placed Sciara's collar herself. She explained this as appropriate given Sciara's position with the agency and the "complex nature of the breach." Most people found it slightly unusual but rationalized it - Sciara was seizing, Sevron was the medical director.
+
+**What Mira witnessed that others didn't:**
+- Sevron was already in the room BEFORE Mira arrived (supposedly "passing by")
+- The collar was already calibrated and keyed to Sciara's resonance signature
+- Sevron had the device WITH her, ready to go
+- The timing suggests Sevron was WAITING, not responding
+
+This is evidence of pre-planning, not just unusual protocol. That's what's damning.
 
 ### Aria Shahrazai
 - **Location:** FRMC (on call)
@@ -78,6 +101,16 @@ All events shifted forward one year:
 - **Status:** Unaware of current crisis (for now)
 - **Goal:** Maintain closed-loop control of Sciara's medical care
 - **Threat Profile:** Has leveraged threats against Mira, possibly Ava/Sophie
+- **Error State:** Has made a critical mistake but doesn't yet realize how badly
+
+#### Characterization Notes
+Inspired by real-world manipulative abusers (Jodi Hildebrandt, Lori Daybell type). Key traits:
+- **To ~90% of people:** Appears saintly, dedicated, professional. The kind of physician you'd want overseeing your care.
+- **To ~10% of people:** Something just slightly *off* that they can't articulate. A coldness beneath the competence.
+- **Weaponizes training:** Uses therapeutic language and medical authority as tools of control and abuse
+- **Maintains cover obsessively:** Goes to great lengths to keep her "special brand of crazy" under the radar
+- **Not mustache-twirling:** Genuinely believes resonance (especially her own Type-VIII) is dangerous and must be controlled
+- **Current state:** Has fucked up badly with Sciara but won't realize how epically for a while yet
 
 ---
 
