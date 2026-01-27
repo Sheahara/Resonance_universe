@@ -49,10 +49,14 @@ All events shifted forward one year:
 - **Knowledge State:** Partially initiated - understands something is very wrong, doesn't know full scope
 
 ### Ava Kessler
-- **Location:** Home (family weekend gathering)
+- **Location:** Home, San Rafael (family weekend gathering)
 - **Status:** Receiving Collin's call
 - **Affiliations:** TPC (covert), FRMC (liaison authority), ICR (compromised)
 - **Authority:** Can authorize inter-agency transfer for medical necessity
+- **Medical:** Slowly progressing MS (prompted career change)
+- **Background:** Former guide dog mobility instructor & certified O&M specialist (~2006-present, now part-time/supervisory)
+- **Service Dog:** Lyric - long-coat German Shepherd, ~10 months, still in training
+- **Family:** Husband Darren (GDMI, supervisory), daughter Sophie (2.5 years, non-verbal) - both uninitiated civilians
 
 ### Mira Fallon
 - **Location:** Ava's home (guest, practically family)
@@ -63,7 +67,7 @@ All events shifted forward one year:
 ### Aria Shahrazai
 - **Location:** FRMC (on call)
 - **Status:** Will ride in ambulance to San Rafael
-- **Medical Status:** Pregnancy resolved (twins born, post-partum period)
+- **Medical Status:** 14-15 weeks pregnant (twins)
 
 ### Alexander Shahrazai
 - **Location:** With Aria

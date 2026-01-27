@@ -5,13 +5,13 @@
 
 ### I. THE CALL
 
-The morning had been unremarkable in that specific way Ava had learned to treasure. Sophie was showing Mira something on her tablet—a game, maybe, or one of those videos where people restored old things. The sound of her daughter's laughter mixed with the smell of the French toast Marcus was attempting in the kitchen, and for a moment Ava let herself believe this was just a Sunday.
+The morning had been unremarkable in that specific way Ava had learned to treasure. Sophie was on the floor with Mira, stacking blocks and knocking them down with the particular glee of a two-and-a-half-year-old who'd discovered cause and effect. Lyric—Ava's long-coat German Shepherd, ten months old and still very much in training—was sprawled nearby, tolerating Sophie's occasional attempts to use her as a pillow with the patience of a dog who'd been raised around children. The smell of French toast drifted from the kitchen where Darren was attempting breakfast, and for a moment Ava let herself believe this was just a Sunday.
 
 Then her phone rang with Collin's ringtone, and she knew.
 
 She'd assigned him a specific tone after June. After everything. Not because she expected him to call—he hadn't, not once since Sciara withdrew from the complaints—but because she needed to be ready if he did. Needed that half-second of preparation before she answered.
 
-"Collin." She was already moving toward the back patio, away from Sophie's bright voice. Mira's eyes tracked her, reading her posture the way she'd learned to over years of friendship.
+"Collin." She was already moving toward the back patio, away from Sophie's happy shrieking as another block tower fell. Mira's eyes tracked her, reading her posture the way she'd learned to over years of friendship.
 
 "Ava." His voice was wrong. Too controlled. Collin Blake was a trauma surgeon; he knew how to stay calm when everything was falling apart. That was the tell. When he sounded *this* calm, things were very bad. "I need—Sciara's—"
 
@@ -33,7 +33,7 @@ Ava closed her eyes. "The lupus?"
 
 "What?"
 
-"I said you won't have to." Ava turned and saw Mira standing in the doorway, tablet forgotten, Sophie's game playing to no one. "Collin, listen to me. I have the authority to authorize an inter-agency transfer if it's medically necessary. Even if I didn't, you're her proxy. You're requesting it. The ICR can't refuse a proxy's demand for transfer of care."
+"I said you won't have to." Ava turned and saw Mira standing in the doorway, Sophie still on the floor behind her, Lyric's head raised and alert. "Collin, listen to me. I have the authority to authorize an inter-agency transfer if it's medically necessary. Even if I didn't, you're her proxy. You're requesting it. The ICR can't refuse a proxy's demand for transfer of care."
 
 "Sevron will—"
 
@@ -59,7 +59,7 @@ She ended the call before either of them could talk themselves out of it.
 
 ### II. THE KITCHEN CONFERENCE
 
-Marcus looked up from his French toast when Ava came back inside. He had the particular expression of a husband who'd been married long enough to read emergencies in the set of his wife's shoulders.
+Darren looked up from his French toast when Ava came back inside. He had the particular expression of a husband who'd been married long enough to read emergencies in the set of his wife's shoulders.
 
 "Go," he said, before she could speak. "Sophie and I will be fine."
 
@@ -67,7 +67,7 @@ Marcus looked up from his French toast when Ava came back inside. He had the par
 
 "I know." He was already reaching for his phone, probably to cancel whatever plans they'd had for the afternoon. "The Blake thing?"
 
-She nodded. Marcus didn't know everything—couldn't know everything—but he knew enough. He knew his wife came home some nights with a particular kind of silence that meant she'd seen something she couldn't fix. He knew about the complaints filed and withdrawn, about the meetings that had ended with Ava staring at the wall for an hour afterward.
+She nodded. Darren didn't know everything—couldn't know everything—but he knew enough. He knew his wife came home some nights with a particular kind of silence that meant she'd seen something she couldn't fix. He knew about the complaints filed and withdrawn, about the meetings that had ended with Ava staring at the wall for an hour afterward.
 
 "Be careful," he said.
 
@@ -105,9 +105,9 @@ In case of exactly this.
 
 ### III. THE AMBULANCE
 
-Aria was already in the bay when the call came through, because Aria was always in the bay lately. Even six weeks post-delivery, she couldn't seem to stay away from the hospital. Alexander said it was because the twins slept better in her office than at home; Aria said it was because she'd lost too much ground during the mandatory leave.
+Aria was already in the bay when the call came through, because Aria was always in the bay lately. Fourteen weeks pregnant and still refusing to slow down—Alexander had stopped arguing about it, mostly. She'd compromised on the overnight shifts, at least. Small victories.
 
-The truth was somewhere in between, and neither of them talked about it.
+She was reviewing charts when the dispatch came in, one hand resting absently on the slight curve of her belly that was only just starting to show.
 
 "Blake residence, San Rafael," the dispatcher said. "Kessler authorization, emergency inter-agency. Patient is Sciara Blake."
 
