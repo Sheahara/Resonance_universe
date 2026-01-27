@@ -177,11 +177,11 @@ Inspired by real-world manipulative abusers (Jodi Hildebrandt, Lori Daybell type
 
 | Arc | Status | Last Event | Day | Pending |
 |-----|--------|------------|-----|---------|
-| SCIARA_RECOVERY | 🔴 Critical | CASCADE event beginning | 0 | Transfer, stabilization |
+| SCIARA_RECOVERY | 🔴 Critical | At FRMC, assessment in progress | 0 | PRB procedure, collar removal |
 | SEVRON_MACHINATIONS | ⚪ Dormant | Not yet aware | 0 | Will activate on notification |
-| LEGAL_PROCEEDINGS | ⚪ Dormant | Post-complaint withdrawal | 0 | Awaiting trigger |
-| KESSLER_EXTRACTION | 🟡 Active | Initiating transfer | 0 | Transfer authorization |
-| MIRA_AWAKENING | 🟡 Active | Present at Ava's home | 0 | Witnessing events |
+| LEGAL_PROCEEDINGS | 🟡 Active | PPTL query complete, Rivani coordinating | 0 | Warrant (blocked - needs Blake telemetry) |
+| KESSLER_EXTRACTION | 🟡 Active | At FRMC with family support available | 0 | Family relocation decision pending |
+| MIRA_AWAKENING | 🟡 Active | At FRMC, testimony pending | 0 | Formal statement recording |
 
 ---
 
@@ -361,23 +361,61 @@ Filed by:
 
 ---
 
+## INVESTIGATION PHASE
+
+### Status: ACTIVE
+**Coordinator:** Amara Rivani (Summit Council Member Thirteen)
+**Constraint:** Insufficient evidence for ICR database warrant
+
+### PPTL Query Results (PPTL_QUERY_001.md)
+Query of .spec devices at ICR Site-17 (Jan 2024 - present) revealed:
+
+| Record | Serial | Status | Flag |
+|--------|--------|--------|------|
+| 1 | PPTL-SRV-VII-2024-0892.spec | DECEASED | "Unrelated medical event" - unverified |
+| 2 | PPTL-SRV-VI-2024-1204.spec | ACTIVE | 684 days deployment, .spec on standard device |
+| 3 | PPTL-SRV-VII-2025-0156.spec | ACTIVE | Pre-recall VII, 399 days |
+| 4 | PPTL-SRV-VII-2026-0341.spec | ACTIVE | BLAKE - Post-recall, no TSB exemption |
+
+**Pattern:** ALL four .spec deployments at Site-17 authorized by T. Sevron (100%)
+
+### What We Need for Warrant
+- Blake device telemetry capture (pending collar removal)
+- Dr. Aria Shahrazai's formal medical assessment
+- Cross-reference data proving VII-in-VI housing pattern
+
+### Timeline Advantage
+- Sunday: Mira not expected at Site-17 until Monday/Tuesday
+- 6-hour window before ICR learns of transfer
+- 48-hour window before ICR must provide narrative
+
+---
+
 ## EVIDENCE INVENTORY
 
 ### Confirmed Evidence
 | Item | Status | Significance |
 |------|--------|--------------|
+| PPTL Query Results | OBTAINED | 4 .spec devices, 1 deceased, pattern of Sevron authorization |
 | Collar serial number (.spec suffix) | Documented | Proves custom Prometheus build |
 | Scanner diagnostic data | Captured during transport | Shows VII Adaptive in VI housing |
 | Mira's eyewitness testimony | Verbal only | Pre-planning evidence (collar pre-calibrated) |
 | Ava's backdoor readings | Historical | Shows deterioration pattern |
 | Transfer authorization | Documented | Collin cited inability to treat |
 
+### Evidence Requiring Warrant
+| Item | Status | Significance |
+|------|--------|--------------|
+| Deceased subject records | BLOCKED | ICR mortality documentation for 2024-0892.spec |
+| Other active .spec subjects | BLOCKED | 2 subjects at Site-17, identities unknown |
+| ICR database cross-reference | BLOCKED | Would confirm VII-in-VI housing pattern across devices |
+
 ### Potential Evidence (If Plan Succeeds)
 | Item | Status | Significance |
 |------|--------|--------------|
 | Failsafe data transmission | Pending capture | Timestamped operational log = confession |
 | Device forensics | Pending removal | Full documentation of modifications |
-| Prometheus database records | Accessible via audit | Authorization chain for .spec device |
+| Prometheus engineering specs | Accessible via warrant | Full .spec modification details |
 
 ---
 

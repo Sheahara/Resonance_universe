@@ -33,9 +33,9 @@ Her position is now exposed. When Sevron learns of the transfer, Ava becomes a t
 
 ### Personal Risk
 - MS diagnosis (slow-progressing) - energy management concerns
-- Married with two children (ages 4 and 7)
-- Children are potential leverage points
-- Sophie (Ava's niece) mentioned as possible threat target
+- Married to Darren with daughter Sophie (2.5 years, non-verbal)
+- Family is potential leverage point
+- Service dog in training: Lyric (bred from Gideon's half-sister)
 
 ### Knowledge State
 - Knows collar is VII Adaptive in VI housing (now confirmed)
@@ -69,10 +69,11 @@ Her position is now exposed. When Sevron learns of the transfer, Ava becomes a t
 | Character | Role | Status |
 |-----------|------|--------|
 | Ava Kessler | Principal | At FRMC, active |
-| Marcus (husband) | Family | Home with children |
-| Sophie (niece) | Vulnerability | Location unknown |
+| Darren Kessler | Husband | Home with Sophie and Lyric |
+| Sophie Kessler | Daughter (2.5, non-verbal) | Home with Darren |
+| Lyric | Service dog in training | Home with Darren |
 | Ava's department head | Ally | Filed complaint, status unknown |
-| TPC contact | Handler | To be contacted |
+| Alexander Shahrazai | TPC contact | To be briefed |
 
 ---
 
@@ -88,6 +89,20 @@ Her position is now exposed. When Sevron learns of the transfer, Ava becomes a t
 - **SEVRON_MACHINATIONS**: Sevron will target Ava for retaliation
 - **LEGAL_PROCEEDINGS**: Ava as potential whistleblower witness
 - **MIRA_AWAKENING**: Ava accidentally compromised Mira's deniability
+
+---
+
+## Summit Council Support Available
+
+Per Member Thirteen (Rivani), the following support is available within task force scope:
+
+- **Administrative:** Expedited paperwork, credential verification
+- **Legal:** Counsel arranged via blind trust (no Summit Council linkage visible)
+- **Housing:** FRMC or TPC housing for family if requested
+- **Strategic:** Consultation on evidence presentation and timing
+- **Protective:** Family relocation authorization pre-approved if needed
+
+Ava has not yet formally requested family relocation. Rivani authorization is standing.
 
 ---
 

@@ -3,18 +3,40 @@
 
 ---
 
-## Status: ⚪ DORMANT
+## Status: 🟡 ACTIVE
 
-**Timeline Position:** Day 0 - Evidence Accumulating
-**Last Update:** July 6, 2026
+**Timeline Position:** Day 0 - Investigation Phase
+**Last Update:** July 6, 2026, 16:45 EST
 
 ---
 
 ## Current Situation
 
-No formal legal proceedings have been initiated. However, the groundwork exists:
+Summit Council Member Thirteen (Amara Rivani) has been notified via Project Black Phoenix channels. Investigation is active but not yet public. Key constraint: **insufficient evidence for ICR database warrant at this time.**
 
-### Prior Complaint History (May-June 2026)
+### Investigation Status
+
+**What We Have:**
+- PPTL database query showing 4 .spec devices at Site-17, all Sevron-authorized
+- One .spec subject DECEASED ("unrelated medical event" - unverified)
+- Two other active .spec subjects (identity unknown without warrant)
+- Blake device deployed post-recall without TSB exemption
+- Emergency transfer documentation
+- Verbal testimony from Mira Fallon (unrecorded)
+
+**What We Need for Warrant:**
+- Blake device telemetry capture (pending collar removal)
+- Dr. Aria Shahrazai's formal medical assessment
+- Cross-reference data proving VII-in-VI housing pattern
+
+**Timeline Advantage:**
+- Sunday: Mira not expected at Site-17 until Monday/Tuesday
+- 6-hour window before ICR knows about transfer
+- 48 hours for ICR to construct narrative (if they learn)
+
+---
+
+## Prior Complaint History (May-June 2026)
 
 **Complaints Filed By:**
 1. Collin Blake (patient proxy)
@@ -40,11 +62,15 @@ No formal legal proceedings have been initiated. However, the groundwork exists:
 
 | Item | Status | Location | Notes |
 |------|--------|----------|-------|
+| PPTL Query Results | OBTAINED | PPTL_QUERY_001.md | 4 .spec devices at Site-17, 1 deceased subject |
 | Sciara's collar | Pending removal | FRMC | Physical evidence of modifications |
 | Collar telemetry | To be extracted | Device | Suppression patterns, override history |
-| Mira's testimony | Verbal only | Unrecorded | Eyewitness to collar placement |
+| Aria's medical assessment | PENDING | FRMC | Required for warrant |
+| Mira's testimony | Verbal only | Unrecorded | Eyewitness to collar placement, pre-planning |
 | Ava's personal notes | Exists | Unknown | Encrypted documentation of concerns |
 | Transfer authorization | Documented | FRMC/ICR | Emergency protocol invocation |
+| Deceased subject records | REQUIRES WARRANT | ICR Site-17 | "Unrelated medical event" - unverified |
+| Other active .spec subjects | REQUIRES WARRANT | ICR Site-17 | 2 subjects, identities unknown |
 
 ---
 
@@ -53,7 +79,8 @@ No formal legal proceedings have been initiated. However, the groundwork exists:
 ### Summit Council Investigation
 - Jurisdiction: Inter-agency resonance matters
 - Trigger: Formal complaint or evidence of protocol violation
-- Status: Not yet notified
+- Status: ACTIVE - Member Thirteen (Rivani) notified via Black Phoenix
+- Constraint: Warrant requires additional evidence (Blake telemetry, Aria assessment)
 
 ### Medical Review Board
 - Jurisdiction: Standard of care violations
@@ -69,7 +96,25 @@ No formal legal proceedings have been initiated. However, the groundwork exists:
 
 ## Active Threads
 
-*None active - arc dormant pending formal initiation*
+### 1. Warrant Preparation
+- Priority: HIGH
+- Status: BLOCKED - awaiting Blake telemetry and Aria assessment
+- Notes: PPTL query provides pattern evidence but not sufficient alone
+
+### 2. Deceased Subject Investigation
+- Priority: HIGH
+- Status: BLOCKED - requires warrant for ICR mortality records
+- Notes: PPTL-SRV-VII-2024-0892.spec - "unrelated medical event" unverified
+
+### 3. Other Active .spec Subjects
+- Priority: MEDIUM
+- Status: BLOCKED - identities unknown without ICR database access
+- Notes: 2 subjects potentially at risk; cannot intervene without warrant
+
+### 4. Witness Coordination
+- Priority: MEDIUM
+- Status: In progress
+- Notes: Mira, Ava at FRMC. Mira testimony unrecorded. Sunday timing window.
 
 ---
 
@@ -77,16 +122,22 @@ No formal legal proceedings have been initiated. However, the groundwork exists:
 
 | Character | Role | Status |
 |-----------|------|--------|
-| Summit Council | Adjudicating body | Unaware |
-| ICR Legal | Opposition | Standing by |
-| FRMC Legal | Potential support | Standing by |
+| Amara Rivani | Summit Council Member Thirteen | Active, coordinating |
+| ICR Legal | Opposition | Unaware (6-hour window) |
+| FRMC Legal | Support | Standing by |
 | Ilyana Crane | Potential witness | Unknown status |
+| Dr. Aria Shahrazai | Medical assessor | At FRMC, assessment in progress |
 
 ---
 
 ## Documents in This Arc
 
-*None yet*
+| Document | Type | Status |
+|----------|------|--------|
+| PPTL_QUERY_001.md | Database Query Results | COMPLETE |
+| Blake Device Telemetry | Forensic Data | PENDING - requires collar removal |
+| Aria Assessment Report | Medical Evaluation | PENDING |
+| Warrant Application | Legal Filing | BLOCKED - awaiting evidence |
 
 ---
 
@@ -99,4 +150,4 @@ No formal legal proceedings have been initiated. However, the groundwork exists:
 
 ---
 
-*Arc awaiting formal complaint or investigation trigger.*
+*Arc active. Investigation constrained by warrant requirements. Awaiting Blake device data and Aria assessment.*
