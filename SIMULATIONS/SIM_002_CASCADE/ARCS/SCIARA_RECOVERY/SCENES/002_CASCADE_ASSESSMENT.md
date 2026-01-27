@@ -11,17 +11,25 @@ Right now, the bay sounded like controlled panic.
 
 "Incoming," she said to Gideon, and the black shepherd rose smoothly from his down-stay, positioning himself at her left hip. His harness handle settled into her palm with familiar weight.
 
-She heard the ambulance bay doors before they opened—that particular hydraulic wheeze—and then the stretcher wheels, and voices. Aria's voice, clipped and professional. Alexander's, lower, steadier. A male voice she didn't recognize, raw-edged with fear. And underneath all of it, a resonance signature so damaged that Shea stopped walking.
+She heard the ambulance bay doors before they opened—that particular hydraulic wheeze—and then the stretcher wheels, and voices. Aria's voice, clipped and professional. Alexander's, lower, steadier. And then—
+
+Collin. That was Collin's voice. She knew that voice from dinners at the Shahrazais', from that long conversation about medical ethics at Sciara's birthday last year, from a dozen small moments that added up to friendship. But she'd never heard him sound like this. Raw-edged. Breaking.
+
+And underneath his voice, underneath all of it, a resonance signature so damaged that Shea stopped walking.
+
+She knew that signature too.
 
 "Doctor Eccari?" One of the nurses. "Are you—"
 
-"I'm fine." She wasn't fine. She was standing in the middle of the corridor trying to make sense of what she was perceiving, because it didn't make sense. Couldn't make sense.
+"I'm fine." She wasn't fine. She was standing in the middle of the corridor trying to make sense of what she was perceiving, because it couldn't be what she thought it was. That couldn't be Sciara. Not this shattered, fragmenting field that felt like standing in the middle of the world's longest static shock. Not this hurricane of primal emotion and scattered memory fragments bleeding out in all directions.
 
 She'd been reading auras for twenty-three years. She'd seen damage before—suppression scarring, field collapse, the particular hollowness that came from EVE depletion. She'd seen people broken by collars and people broken by their own abilities and people broken by things she'd never fully understood.
 
 She had never seen anything like this.
 
-The stretcher passed her. Shea turned to follow, Gideon matching her pace automatically, and she let her perception open fully.
+*I recruited her*, Shea thought, and the guilt hit like a physical blow. *Six years ago. I told her ICR was where she could do real ethics work. I brought her here.*
+
+The stretcher passed her. Shea turned to follow, Gideon matching her pace automatically, and she let her perception open fully despite the onslaught of psychic static.
 
 Fissures. Not hairline cracks but *canyons*, running through what should have been a coherent energy field. Dark voids where the suppression had literally eaten through the substrate—suppression voids, she recognized distantly, having read about them but never actually encountered them. The shield layer was gone, not weakened but *absent*, and underneath—
 
@@ -29,19 +37,25 @@ Underneath, Shea could see the architecture of a mind that had built its own las
 
 One signature was allowed through that barrier. One resonance pattern that the defenses recognized as *safe*.
 
-Shea followed the thread of that pattern to the man walking beside the stretcher. Tall, she thought, based on where his voice came from. Surgeon's hands, probably—there was something precise about the way he moved. He was talking continuously, a low steady stream of words, and the woman on the stretcher was tracking him like he was the only fixed point in a spinning universe.
+Collin. Of course it was Collin. Shea followed the thread of that pattern to the man walking beside the stretcher—her friend's husband, talking continuously in that low steady stream of words, and Sciara was tracking him like he was the only fixed point in a spinning universe.
 
-"Dr. Shahrazai," Shea said, and Aria appeared at her elbow. "Who is he?"
+"Aria." Shea's voice came out wrong. Too flat. Too controlled. "That's Sciara. Under all of that. That's her."
 
-"Collin Blake. Her husband."
+Aria appeared at her elbow. She didn't answer. Which was answer enough.
 
-"The surgeon?"
+"How did this happen?" Shea's hands were shaking. She pressed them against Gideon's harness to steady them. "I just—we had lunch two months ago. She was struggling but she wasn't—this doesn't happen in two months, Aria. This kind of damage takes—"
 
-"Trauma. Yes."
+"The collar." Aria's voice was grim. "We think it's been running a modified protocol. Deliberately."
 
-"He's the only signature she's letting through." Shea kept her voice low. "Whatever she's built in there—whatever's protecting what's left of her—it's keyed to him."
+"*Deliberately?*"
 
-Aria was quiet for a moment. Then: "How bad?"
+"Shea." Aria's hand found her arm. "I know she's your friend. I know you recruited her. But right now I need you to be her doctor. Can you do that?"
+
+Shea took a breath. Then another. Locked down everything that wasn't clinical. There would be time for guilt later. Time for grief. Right now, Sciara needed her to function.
+
+"He's the only signature she's letting through," she said, her voice steadier now. "Whatever she's built in there—whatever's protecting what's left of her—it's keyed to Collin."
+
+"How bad?"
 
 "Worse than anything I've seen. Worse than I thought was survivable, honestly. The fact that she's still *there* at all—" Shea shook her head. "She's bought herself time by retreating into that safe room, but it's not sustainable. The walls are already showing stress fractures. Hours, maybe. Not days."
 
@@ -57,7 +71,7 @@ Shea hesitated. This was the part she'd been dreading since she first perceived 
 
 Aria went very still.
 
-"I know," Shea said. "I know what I'm asking. I know what it means. But her defenses are already structured around him. The dynamic they have—whatever it is, however it works—her subconscious has decided he's *safe*. That's a foundation I can work with. Without it, I'd be trying to build scaffolding on quicksand."
+"I know," Shea said. "I know what I'm asking. I know what it means. But her defenses are already structured around him. The dynamic they have—" She stopped. Started again. "I've seen them together, Aria. At parties, at dinners. The way she looks at him when she thinks no one's watching. Her subconscious has decided he's *safe*. That's a foundation I can work with. Without it, I'd be trying to build scaffolding on quicksand."
 
 "She can't consent to that."
 
@@ -75,13 +89,19 @@ They put Sciara in Resonance Suite Three—the most shielded room in the buildin
 
 Ava found a chair in the corner and sat down carefully, her left leg aching in that familiar way that meant she'd pushed too hard today. Lyric wasn't here—she'd left the dog with Darren—and she missed the weight of the leash in her hand, the grounding presence. Mira stood beside her, arms crossed, watching everything with the particular intensity of someone who'd finally stopped running from what she knew.
 
-Shea Eccari came in twenty minutes later. Gideon found a spot near the door and settled into a down-stay that said he'd be there as long as necessary.
+Shea Eccari came in twenty minutes later. She'd spent that time in the corridor running differentials, rechecking her assessment. Not because she doubted it—because she'd needed that time to lock down everything that wasn't clinical before she walked into this room and looked at Collin. Before she told a friend things that would change his life forever.
 
-"I need to explain some things," Shea said without preamble. She was addressing the room, but her face was turned toward Collin's voice. "Some of this is going to sound impossible. Some of it is going to sound like I'm asking you to make an impossible choice. I apologize in advance for both."
+Gideon found a spot near the door and settled into a down-stay that said he'd be there as long as necessary.
 
-Collin didn't look up from Sciara's face. "Tell me."
+"Collin." Just his name. She heard his breathing change—recognition, and maybe a flicker of hope. Someone he knew. Someone who might be able to explain.
 
-"Your wife has done something extraordinary. In the face of sustained, catastrophic damage to her resonance field—damage that should have killed her or at minimum destroyed her cognitive function—she constructed a mental defense structure. A safe room, essentially. She took the core of who she is and she *fortified* it."
+"Shea." His voice was raw. "Tell me what's happening to her."
+
+"I need to explain some things first," Shea said. "Some of this is going to sound impossible. Some of it is going to sound like I'm asking you to make an impossible choice." She took a breath. "I'm sorry. I'm so sorry this is happening."
+
+"Just tell me."
+
+"Sciara has done something extraordinary." Shea moved closer to the bed, toward the sound of his voice. "In the face of sustained, catastrophic damage to her resonance field—damage that should have killed her or at minimum destroyed her cognitive function—she constructed a mental defense structure. A safe room, essentially. She took the core of who she is and she *fortified* it."
 
 "That sounds like a good thing."
 
@@ -113,7 +133,7 @@ Collin was silent. Ava watched his face—watched him process, calculate, weigh.
 
 "Why me?" he asked finally.
 
-"Because her defenses are already built around you." Shea's voice was gentle. "Whatever your relationship is, however it works—her subconscious has decided that your signature is *safe*. You're the only one she's letting through right now. That gives us a foundation. Without it, I'd be trying to build on nothing."
+"Because her defenses are already built around you." Shea's voice caught, just for a moment. Then, steady again: "You know how she looks at you. I've seen it—at parties, at dinners. Whatever you two have built together, her subconscious has decided that your signature is *safe*. You're the only one she's letting through right now. That gives us a foundation. Without it, I'd be trying to build on nothing."
 
 "She can't consent to this."
 
@@ -179,9 +199,15 @@ Aria turned to face him. "Shea wants to do a PRB first. Before we attempt remova
 
 Alexander's expression didn't change, but she felt the shift in him. The way he went still.
 
-"It's the only way," Aria said quietly. "Her field is too damaged. Without external stabilization—"
+"Shea and Sciara were at Berkeley together," Aria said quietly. "She recruited her to ICR. Six years ago."
 
-"I know." He reached out, took her hand. Their bond hummed between them—that constant low-level awareness of each other that had been part of their lives for thirteen years. An accident, in their case. An emergency measure that had become something neither of them would give up.
+"I know."
+
+"This isn't just clinical for her."
+
+"No." Alexander met her eyes. "It's not. But she's the best aura reader we have, and right now Sciara needs the best."
+
+He reached out, took her hand. Their bond hummed between them—that constant low-level awareness of each other that had been part of their lives for thirteen years. An accident, in their case. An emergency measure that had become something neither of them would give up.
 
 "It's not the same," Aria said. "What happened to us—that was survival. This is a choice."
 
@@ -237,71 +263,61 @@ Aria looked at the data on her screen. The collar's operational history, laid ou
 
 Shea found Ava in the hallway outside Suite Three, leaning against the wall with her eyes closed.
 
-"You should sit down," Shea said. Gideon's tags jingled as he adjusted position.
+"Sit down," Shea said. Gideon's tags jingled as he adjusted position. "You've been on your feet for hours, and you know better."
 
-"I'm fine."
+Ava opened her eyes. "You sound like Darren."
 
-"You're not fine. Your gait was uneven when you came in, and you've been on your feet for—" Shea paused, calculating. "At least three hours. Probably longer."
+"Darren taught me more than half of what I know about working with a guide. I'll take that as a compliment." Shea moved to stand beside her. "How's Lyric coming along?"
 
-Ava opened her eyes. "How do you do that?"
+"She's getting there. Left her with Darren and Sophie today, which she wasn't thrilled about." Ava's voice softened slightly. "I bred her from Gideon's half-sister, you know. Same sire."
 
-"Sound. The way weight shifts, the rhythm of footsteps." Shea moved to stand beside her. "Aria told me you're volunteering as guardian ad litem."
+"I know. You told me when you matched him to me." Shea reached out, found the wall, leaned against it. Two women in a hallway, connected by years of dogs and training and the strange paths that had led them both here. "That feels like a lifetime ago."
 
-"Someone has to."
+"It was." Ava was quiet for a moment. "I didn't know this is where we'd end up. When Alexander approached me about TPC, I thought—I thought I could just watch. Report. Keep my head down."
 
-"It should probably be someone who isn't emotionally involved."
+"But you couldn't."
 
-"Find me someone who isn't emotionally involved and also understands what's at stake." Ava's voice was tired. "This isn't a normal situation, Dr. Eccari. There isn't a protocol for 'patient's collar was deliberately modified to torture her into psychic collapse.' I'm doing the best I can with what we have."
+"No. I couldn't." Ava exhaled. "I watched Sciara deteriorate for three months and filed complaints that went nowhere. I'm done watching."
 
-Shea was quiet for a moment. Then: "You've been working with her since March."
+Shea was quiet. Then: "I recruited her. 2020. She wanted out of... her previous work. Wanted to do something that felt like it mattered. I told her the Ethics Review Board was important. I told her ICR was a good place."
 
-"Since April. After the initial placement, yes."
+"So we both failed her."
 
-"You saw the deterioration."
+"Yes."
 
-"I watched it happen and couldn't stop it." Ava's voice cracked, just slightly. "I filed complaints. Collin filed complaints. Her neurologist filed complaints. And Sciara withdrew her consent, and there was nothing—*nothing*—any of us could do after that."
+They stood in the silence of that shared guilt. Inside Suite Three, Collin was still talking to Sciara. The cadence of his voice carried through the door—low, steady, endless.
 
-"Why did she withdraw?"
+"We can't undo what happened," Ava said finally. "But we can help her now. That's what we do with guilt. We make it useful."
 
-"I don't know. She wouldn't say. Just kept apologizing for wasting everyone's time." Ava pressed her palms against the wall behind her. "Sevron threatened someone. That's the only explanation that makes sense. Mira, maybe. Or me. Or—"
+"She was afraid of it, you know." Shea's voice was soft. "Her resonance. She never wanted it to activate. She didn't even know what she was until the breach, and then—" She stopped. "She doesn't remember the breach. Did you know that?"
 
-She stopped.
+"I suspected. She never wanted to talk about it."
 
-"Or?"
+"She spent her whole life not knowing what was inside her, and then it woke up all at once, and before she could even process that, they put a collar on her." Shea's jaw tightened. "And now I'm going to ask Collin to bind himself to her permanently because it's the only way to save what's left."
 
-"I have a daughter. Sophie. She's two and a half." Ava's voice had gone flat. Controlled. "Sevron knew about her. Mentioned her once, in a meeting. Just casually. 'How's little Sophie doing? Such a sweet age.'"
+"He'll do it."
 
-Shea felt cold spread through her chest. "You think she threatened your child?"
+"I know he will. That's not the point."
 
-"I think Sciara *believed* she might. Whether Sevron actually would..." Ava shook her head. "I don't know. I don't know what she's capable of anymore."
+"What is the point?"
 
-"The collar modifications suggest she's capable of quite a lot."
+"The point is that none of this should have happened." Shea turned her face toward the door. "The point is that someone did this to her deliberately, and we're the ones picking up the pieces."
 
-"Yes. They do."
+Ava pushed off the wall. Her leg protested; she ignored it.
 
-They stood in silence for a moment. Inside Suite Three, Collin was still talking to Sciara. The cadence of his voice carried through the door—low, steady, endless.
+"Then let's pick them up," she said. "What do you need from me?"
 
-"The binding will use their existing dynamic as a foundation," Shea said finally. "You know about that."
-
-"I know." Ava didn't elaborate.
-
-"It's not typical."
-
-"No."
-
-"But it's strong. Established. Her subconscious trusts him at a level that goes beyond ordinary partnership." Shea turned her face toward the door, listening. "Whatever they've built together—it's going to save her life."
-
-"If this works."
-
-"If this works," Shea agreed. "I'm going to start the preparation in about twenty minutes. The binding itself will take several hours. During that time, I need everyone who isn't essential to stay out of the suite."
+"I'll need you to formally sign off on the procedure. Guardian ad litem authority. And I'll need everyone who isn't essential to stay out of the suite during the binding—it'll take several hours."
 
 "I'll make sure Mira knows."
 
-"And I'll need you to formally sign off on the procedure. Guardian ad litem authority."
+"Good." Shea straightened. "I'm going to start the preparation in about twenty minutes. Collin needs to understand exactly what he's agreeing to before we begin."
 
-Ava pushed off the wall. Her leg twinged; she ignored it.
+"He understands enough."
 
-"Show me where to sign," she said.
+"No one really understands, going in." Shea's voice was tired. "But he loves her. That's what matters. That's what's going to save her."
+
+"Show me where to sign," Ava said.
 
 ---
 
@@ -327,8 +343,14 @@ Ava pushed off the wall. Her leg twinged; she ignored it.
 
 [STRATEGIC FLAG: Plan requires redirecting failsafe discharge through PRB bond]
 
-[CHARACTER INTRO: Dr. Shea Eccari, PsyD - blind, guide dog Gideon (black GSD), aura reader]
+[CHARACTER INTRO: Dr. Shea Eccari, PsyD - blind, guide dog Gideon (black GSD), aura reader, Berkeley cohort with Sciara, recruited her to ICR 2020]
+
+[RELATIONSHIP FLAG: Shea-Sciara friendship predates ICR; Shea carries guilt for recruitment]
+
+[RELATIONSHIP FLAG: Shea-Ava connection through guide dog world - Ava bred/trained Gideon, Darren trained Shea's prior guide]
 
 [GUARDIAN FLAG: Ava Kessler acting as guardian ad litem for consent purposes]
+
+[WORLD-BUILDING FLAG: Sciara was afraid of resonance, didn't know until breach, doesn't remember breach]
 
 ---

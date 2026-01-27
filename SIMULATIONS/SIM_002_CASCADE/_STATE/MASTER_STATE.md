@@ -53,6 +53,10 @@ All events shifted forward one year:
 - **Status:** CRITICAL - Shield integrity <5%
 - **Symptoms:** Vertigo, refractory headache, post-ictal state (probable NCS), SLE flare uncontrolled
 - **Collar Status:** Series VII prototype in Series VI housing, adaptive protocol severely malfunctioning
+- **Resonance Type:** III/IV Hybrid (Harmonic-Linguistic) - latent until breach
+- **Psychological Note:** Afraid of her resonance - it was an obstacle during sessions. Never wanted it to activate.
+- **Memory Gap:** Does not remember the March 31 breach - spent her whole life not knowing what was inside her, then it woke up all at once
+- **Prior Work:** NSA (left in 2020); recruited to ICR Ethics Review Board by Shea
 
 ### Collin Blake
 - **Location:** Blake residence, San Rafael
@@ -64,17 +68,47 @@ All events shifted forward one year:
 - **Status:** Receiving Collin's call
 - **Affiliations:** TPC (covert), FRMC (liaison authority), ICR (compromised)
 - **Authority:** Can authorize inter-agency transfer for medical necessity
-- **Medical:** Slowly progressing MS (prompted career change)
+- **Medical:** Slowly progressing MS (prompted career change from full-time GDMI)
 - **Background:** Former guide dog mobility instructor & certified O&M specialist (~2006-present, now part-time/supervisory)
-- **Service Dog:** Lyric - long-coat German Shepherd, ~10 months, still in training
+- **Service Dog:** Lyric - long-coat German Shepherd, ~10 months, still in training (bred from Gideon's half-sister, same sire)
 - **Family:** Husband Darren (GDMI, supervisory), daughter Sophie (2.5 years, non-verbal) - both uninitiated civilians
+
+#### TPC Recruitment Path
+- Connected to Shea through guide dog world (bred and helped train Gideon; Darren trained Shea's prior guide)
+- Recruited by Alexander Shahrazai to TPC
+- Original role: Observe and report only
+- Actual role: Project Black Phoenix - wanted ability to act, not just watch
+- Her client-centered training from guide dog work gave her an advantage with participants
+
+#### Why She Gets Complicated Cases
+- Mira Fallon was assigned to a male BSP who badly mishandled her case during personal trauma
+- Ava was asked to take over; original BSP was demoted and ultimately left the agency
+- Ava successfully helped Mira recover/become functional
+- Because Mira's skill set is unique, Ava getting her functional ensured Ava would always get the difficult or complicated cases
+- Set Sciara up with Mira as research assistant (thought Sciara would treat Mira like a human being)
+- When Sciara got hurt in March, it made sense for Ava to take her case
 
 ### Mira Fallon
 - **Location:** Ava's home (guest, practically family)
 - **Residence:** Lives ON-SITE at ICR Site-17 (logistical/housing arrangement)
 - **Status:** NOT collared in this simulation
+- **Medical:** Type I diabetes (just is, not featured)
 - **Vulnerability:** Extremely exposed - lives where Sevron works, cannot escape proximity
 - **Critical Knowledge:** See below - not the placement itself (that's common knowledge) but evidence of *pre-planning*
+
+#### History with Ava
+- Was originally assigned to a male BSP who badly mishandled her case
+- Mira had just gone through traumatic personal issues; he made things worse
+- Ava was asked to take over
+- Original BSP was demoted and ultimately left the agency (everyone knew why)
+- Ava successfully helped Mira recover and become functional
+- Mira's unique skill set meant Ava would always be assigned complicated cases after this
+
+#### Pre-Collar Connection to Sciara
+- Ava specifically set Sciara up with Mira as a research assistant
+- Reasoning: Sciara would treat Mira like a human being without being weird about it
+- This created a working relationship and friendship before March
+- When Sciara was collared, Mira taking her case was a natural continuation
 
 #### What Mira Actually Knows (vs. Common Knowledge)
 **Common knowledge:** Sevron placed Sciara's collar herself. She explained this as appropriate given Sciara's position with the agency and the "complex nature of the breach." Most people found it slightly unusual but rationalized it - Sciara was seizing, Sevron was the medical director.
@@ -103,7 +137,12 @@ This is evidence of pre-planning, not just unusual protocol. That's what's damni
 - **Location:** FRMC
 - **Role:** Resonance diagnostics specialist, aura reader
 - **Disability:** Blind (not featured as superpower - just is, like Aria's pregnancy or Mira's Type I diabetes)
-- **Guide Dog:** Gideon, black German Shepherd
+- **Guide Dog:** Gideon, black German Shepherd (bred by Ava, trained with Ava's help)
+- **Resonance Type:** II (Neuro-Affective) - Empath; perceives auras as sensation ("world's longest static shock")
+- **Relationship to Sciara:** Graduate cohort at UC Berkeley; recruited Sciara to ICR in 2020 when she wanted to leave NSA
+- **Guilt Factor:** Feels responsible for bringing Sciara into ICR - "I told her it was a good place"
+- **Relationship to Collin:** Knows him through friendship with Sciara - dinners, parties, part of same social circle
+- **Connection to Ava:** Guide dog world - Ava bred Gideon, Darren trained one of Shea's prior guides
 - **Assessment:** Has never seen damage this severe; identified Sciara's "safe room" defense and the PRB necessity
 
 ### Talia Sevron
@@ -121,6 +160,16 @@ Inspired by real-world manipulative abusers (Jodi Hildebrandt, Lori Daybell type
 - **Maintains cover obsessively:** Goes to great lengths to keep her "special brand of crazy" under the radar
 - **Not mustache-twirling:** Genuinely believes resonance (especially her own Type-VIII) is dangerous and must be controlled
 - **Current state:** Has fucked up badly with Sciara but won't realize how epically for a while yet
+
+#### Initial BSP Assignment Attempt (March 2026)
+- Sevron first attempted to assign a BSP II (less experienced) to Sciara's case
+- Reasoning: Less experienced BSP would defer to her judgment more readily than someone like Ava
+- Failed due to:
+  - Clearance issues (Sciara's position on Ethics Review Board)
+  - Irregularities surrounding the breach circumstances
+  - Inappropriate given the complexity of the case
+- This was Sevron trying to control the narrative from day one
+- When BSP II assignment became impractical, Ava was assigned - which Sevron did not want
 
 ---
 

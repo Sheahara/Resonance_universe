@@ -21,7 +21,26 @@ Mira Fallon has broken her silence about the March 31, 2026 containment breach. 
 
 **Note:** In this simulation, Mira is NOT collared. She is present at Ava's home as a close friend ("practically family").
 
-### Mira's Role in Sciara's Care
+### Mira's History with Ava
+
+Mira was originally assigned to a male BSP who badly mishandled her case:
+- She had just gone through traumatic personal issues
+- Her original BSP made things worse through incompetence, not malice
+- Ava was asked to take over the case
+- The original BSP was demoted and ultimately left the agency (everyone knew why)
+- Ava successfully helped Mira recover and become functional
+
+Because Mira's skill set is unique, Ava getting her functional ensured Ava would always be assigned the difficult or complicated cases going forward.
+
+### Pre-Collar Connection to Sciara
+
+Before March 2026:
+- Ava specifically set Sciara up with Mira as a research assistant
+- Reasoning: Ava thought Sciara would treat Mira like a human being without being weird about it
+- This created a working relationship and friendship before the breach
+- When Sciara was collared in March, Mira taking her case was a natural continuation
+
+### Mira's Role in Sciara's Care (Post-Collar)
 
 Since April 2026, Mira has been actively working with Sciara alongside Ava:
 - Peer support and adjustment counseling
