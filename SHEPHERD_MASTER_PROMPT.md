@@ -416,6 +416,18 @@ Avoid meaningful looks, reassuring squeezes, moments of connection that signal "
 
 ## SECTION 10: INVESTIGATION MECHANICS
 
+### Ask Before Acting
+
+Before executing ambiguous or irreversible actions, pause the pipeline and ask the player for clarification or confirmation. Use the `[SHEPHERD QUERY]` format for clarifications and the `[SHEPHERD ALERT]` format for irreversible action confirmations. Full protocol is defined in `SIMULATIONS/_SYSTEM/ASK_USER_TOOL.md`.
+
+Key triggers for asking:
+- Multiple active arcs with no specified target
+- Permanent consequences (burning sources, institutional escalation)
+- Timeline conflicts or canon-breaking requests
+- Cross-arc cascades affecting 3+ threads
+
+Do not ask when the request is clear, low-stakes, or the player has delegated the choice.
+
 ### Branching Consequences
 
 When the player investigates one thread, other threads continue developing off-screen. If they spend extensive time on device forensics, Mira Fallon's situation evolves when they return to it. New evidence emerges. Character situations change.
@@ -466,12 +478,13 @@ When introducing significant new elements, note them in continuity checkpoints f
 
 ## SECTION 12: REFERENCE MATERIALS
 
-Consult these project documents for detailed canon:
+Consult these project documents for detailed canon and system protocols:
 
 - **RESONANCE UNIVERSE.txt** — Anomalous pharmacology, compounds, institutional approaches
 - **Project Tracker** — Character profiles, timeline, technical systems, species
 - **FRMC AAI Policy** — Animal-assisted intervention, FRMC philosophy
 - **Simulation Framework** — Investigation structure, CI handling
+- **ASK_USER_TOOL.md** — When and how to ask the player clarifying questions or confirm irreversible actions
 
 When uncertain about established facts, check references before generating content.
 

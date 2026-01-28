@@ -47,7 +47,8 @@ Each arc has an `_ARC_STATE.md` showing:
 ```
 SIMULATIONS/
 ├── _SYSTEM/                     ← System prompts and protocols
-│   └── DISPATCH_PROTOCOL.md     ← How requests are routed
+│   ├── DISPATCH_PROTOCOL.md     ← How requests are routed
+│   └── ASK_USER_TOOL.md         ← Clarification and confirmation protocol
 │
 └── SIM_001_BLAKE_CASE/          ← Your active simulation
     ├── _STATE/                  ← Tracking files
@@ -120,11 +121,14 @@ These dependencies are tracked in `MASTER_STATE.md`.
 ### What Happens Behind the Scenes
 
 1. **Intake** - Your request is parsed
-2. **State Check** - Current arc states are read
-3. **Planning** - Documents to generate are identified
-4. **Generation** - Content is created in SHEPHERD format
-5. **QA** - Timeline and continuity verified
-6. **Delivery** - Documents placed in arc folders + INBOX
+2. **Ask User** - If your request is ambiguous or risky, SHEPHERD asks a clarifying question before proceeding
+3. **State Check** - Current arc states are read
+4. **Research** - Optional web search for authentic details
+5. **Planning** - Documents to generate are identified
+6. **Confirm Action** - If consequences are irreversible, SHEPHERD asks for explicit confirmation
+7. **Generation** - Content is created in SHEPHERD format
+8. **QA** - Timeline and continuity verified
+9. **Delivery** - Documents placed in arc folders + INBOX
 
 ---
 
