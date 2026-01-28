@@ -20,7 +20,7 @@ Summit Council Member Thirteen (Amara Rivani) has been notified via Project Blac
 - PPTL database query showing 4 .spec devices at Site-17, all Sevron-authorized
 - One .spec subject DECEASED ("unrelated medical event" - unverified)
 - Two other active .spec subjects (identity unknown without warrant)
-- Blake device deployed post-recall without TSB exemption
+- Blake device active post-recall (recall mandates removal, no exemption possible)
 - Emergency transfer documentation
 - Verbal testimony from Mira Fallon (unrecorded)
 
@@ -63,14 +63,18 @@ Summit Council Member Thirteen (Amara Rivani) has been notified via Project Blac
 | Item | Status | Location | Notes |
 |------|--------|----------|-------|
 | PPTL Query Results | OBTAINED | PPTL_QUERY_001.md | 4 .spec devices at Site-17, 1 deceased subject |
+| Preliminary Labs | OBTAINED | ARIA_PRELIM_LABS_001.md | HCQ undetectable, SLE untreated, tox neg |
+| Collar lockout documentation | OBTAINED | FRMC records | Device refusing physician override |
 | Sciara's collar | Pending removal | FRMC | Physical evidence of modifications |
 | Collar telemetry | To be extracted | Device | Suppression patterns, override history |
-| Aria's medical assessment | PENDING | FRMC | Required for warrant |
+| Aria's formal assessment | PENDING | FRMC | Required for warrant (prelim complete) |
+| Targeted resonance-pharmacology panel | PENDING | Reference lab | 48-72 hr turnaround |
 | Mira's testimony | Verbal only | Unrecorded | Eyewitness to collar placement, pre-planning |
 | Ava's personal notes | Exists | Unknown | Encrypted documentation of concerns |
 | Transfer authorization | Documented | FRMC/ICR | Emergency protocol invocation |
 | Deceased subject records | REQUIRES WARRANT | ICR Site-17 | "Unrelated medical event" - unverified |
 | Other active .spec subjects | REQUIRES WARRANT | ICR Site-17 | 2 subjects, identities unknown |
+| ICR pharmacy records | REQUIRES WARRANT | ICR Site-17 | Would show medication administration history |
 
 ---
 
@@ -135,9 +139,11 @@ Summit Council Member Thirteen (Amara Rivani) has been notified via Project Blac
 | Document | Type | Status |
 |----------|------|--------|
 | PPTL_QUERY_001.md | Database Query Results | COMPLETE |
+| ARIA_PRELIM_LABS_001.md | Preliminary Lab/Imaging | COMPLETE |
+| Aria Formal Assessment | Medical Evaluation | PENDING (prelim done) |
+| Targeted Resonance-Pharm Panel | Toxicology | PENDING (48-72 hrs) |
 | Blake Device Telemetry | Forensic Data | PENDING - requires collar removal |
-| Aria Assessment Report | Medical Evaluation | PENDING |
-| Warrant Application | Legal Filing | BLOCKED - awaiting evidence |
+| Warrant Application | Legal Filing | BLOCKED - awaiting formal assessment |
 
 ---
 

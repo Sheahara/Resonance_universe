@@ -94,10 +94,11 @@ Current CFL:       [REDACTED - Req. Institutional Release]
 Last Calibration:  2026-07-01
 Calibration Auth:  T. Sevron, MD
 
-[SHEPHERD FLAG: Series VII Adaptive deployed 11 months prior
- to official recall date (April 19, 2025). Pre-recall deployment
- of recalled device class requires review. Duration: 399 days
- and counting.]
+[SHEPHERD FLAG: Series VII Adaptive deployed June 2025.
+ Series VII class recalled April 19, 2026 - device NOT removed.
+ Recall mandates removal of all active devices in class.
+ No mechanism exists for post-recall exemption.
+ Duration: 399 days and counting. Still active 78 days post-recall.]
 
 
 RECORD 4 of 4
@@ -116,9 +117,12 @@ Calibration Auth:  T. Sevron, MD
 
 [SHEPHERD FLAG: HIGH PRIORITY
  - Deployment date matches Blake emergency transfer timeline
- - Series VII deployed AFTER official recall (April 19, 2025)
- - Post-recall deployment of Series VII requires TSB exemption
- - No TSB exemption on file for this serial number
+ - Deployed March 31, 2026 - 19 days before Series VII recall
+ - Device NOT removed after April 19, 2026 recall
+ - Recall mandates removal; no exemption mechanism exists
+ - Recalibrated June 28 and July 5, 2026 - AFTER recall
+ - Active recalibration of recalled device = continued
+   unauthorized use, not mere administrative oversight
  - Calibration performed 1 day prior to emergency transfer
  - Authorizing physician (Sevron) is subject of multiple
    ethics complaints regarding this patient cohort]
@@ -140,17 +144,30 @@ ANOMALY FLAGS:
    .spec deployments at Site-17 is statistically significant
    (p < 0.01 against site-wide authorization distribution)
 
-2. Series VII devices deployed before AND after recall date
-   without TSB exemption documentation
+2. Two Series VII devices remain ACTIVE after class recall
+   (April 19, 2026). Recall mandates removal. No post-recall
+   exemption mechanism exists at any authorization level.
+   One device was actively recalibrated post-recall, indicating
+   deliberate continued use rather than administrative oversight.
 
 3. One .spec subject deceased; cause listed as "unrelated"
-   but verification unavailable at this access level
+   but verification unavailable at this access level. Device was
+   Series VII deployed March 2024; subject death preceded recall
+   and may have been a contributing factor to recall decision.
 
 4. Average deployment duration: 439 days (active devices)
    Standard SAFE graduation timeline: 180-365 days
 
 5. Housing field redacted on 3/4 devices suggests potential
    device modification data available only at institutional level
+
+6. SERIES VII RECALL CONTEXT: Devices recalled due to adverse
+   outcome profile in civilian populations. Adaptive learning
+   algorithm reduced human oversight errors but produced
+   catastrophic failures in edge cases, particularly subjects
+   with CNS comorbidities. Military-grade failsafe component
+   never intended for civilian deployment. Informed consent
+   regarding failsafe required for authorized use.
 
 LIMITATION NOTICE:
 This query provides deployment metadata only. The following
@@ -180,8 +197,9 @@ WITH PPTL ENGINEERING ACCESS:
 - Audit failsafe configuration documentation
 
 WITH TSB RECORDS:
-- Verify exemption status for post-recall Series VII deployments
-- Review any variance requests filed by Site-17
+- Confirm no post-recall authorization exists (expected: none possible)
+- Review recall compliance reports filed by Site-17
+- Determine if Site-17 filed removal confirmation (expected: no)
 
 ═══════════════════════════════════════════════════════════════
 ---
@@ -190,7 +208,7 @@ SHEPHERD METADATA
 Query Execution Time: 0.847s
 Records Scanned: 12,847
 Cache Status: Fresh
-Cross-Reference Queue: ICR-17-MORTALITY, TSB-VARIANCE-LOG
+Cross-Reference Queue: ICR-17-MORTALITY, TSB-RECALL-COMPLIANCE
 Priority Flag: ACTIVE - Pending Blake device telemetry capture
 Pattern Match: 87% confidence - coordinated deployment pattern
 Next Action: Await warrant authorization post-Aria assessment

@@ -278,6 +278,14 @@ Filed by:
 
 ## PROMETHEUS TECHNICAL INTEL
 
+### Series VII Recall Context
+- **Recall Date:** April 19, 2026
+- **Reason:** Adverse outcome profile in civilian populations
+- **Design Intent:** Reduce human error by automating suppression responses for community-living SAFE participants. Majority of SAFE participants live normal lives - human oversight errors were the primary concern.
+- **Outcome:** Worked well for many cases. When it failed, failures were catastrophic, especially with CNS comorbidities.
+- **Failsafe:** Military-grade. Designed for genuinely dangerous individuals in containment settings who might try to escape or harm others. Subjects MUST be informed of the failsafe. Putting a military-grade failsafe on a civilian without their knowledge or consent is a fundamental violation.
+- **Recall Effect:** All active devices must be removed. No exemption mechanism exists at any authorization level. Continued use after recall is unauthorized.
+
 ### Device Identification
 - **Serial number suffix:** Custom PPTL work has ".spec" suffix
 - **Audit access:** Summit Council has access to Prometheus database via current administrative audit
@@ -374,8 +382,8 @@ Query of .spec devices at ICR Site-17 (Jan 2024 - present) revealed:
 |--------|--------|--------|------|
 | 1 | PPTL-SRV-VII-2024-0892.spec | DECEASED | "Unrelated medical event" - unverified |
 | 2 | PPTL-SRV-VI-2024-1204.spec | ACTIVE | 684 days deployment, .spec on standard device |
-| 3 | PPTL-SRV-VII-2025-0156.spec | ACTIVE | Pre-recall VII, 399 days |
-| 4 | PPTL-SRV-VII-2026-0341.spec | ACTIVE | BLAKE - Post-recall, no TSB exemption |
+| 3 | PPTL-SRV-VII-2025-0156.spec | ACTIVE | Active post-recall, not removed, 399 days |
+| 4 | PPTL-SRV-VII-2026-0341.spec | ACTIVE | BLAKE - Active post-recall, recalibrated post-recall |
 
 **Pattern:** ALL four .spec deployments at Site-17 authorized by T. Sevron (100%)
 
@@ -397,11 +405,23 @@ Query of .spec devices at ICR Site-17 (Jan 2024 - present) revealed:
 | Item | Status | Significance |
 |------|--------|--------------|
 | PPTL Query Results | OBTAINED | 4 .spec devices, 1 deceased, pattern of Sevron authorization |
+| Preliminary Labs (ARIA_PRELIM_LABS_001) | OBTAINED | SLE untreated, HCQ undetectable, mycophenolate subtherapeutic |
 | Collar serial number (.spec suffix) | Documented | Proves custom Prometheus build |
 | Scanner diagnostic data | Captured during transport | Shows VII Adaptive in VI housing |
+| Collar lockout | Documented | Device refusing physician override = unauthorized modification |
 | Mira's eyewitness testimony | Verbal only | Pre-planning evidence (collar pre-calibrated) |
 | Ava's backdoor readings | Historical | Shows deterioration pattern |
 | Transfer authorization | Documented | Collin cited inability to treat |
+
+### Preliminary Lab Findings Summary (July 6, 2026)
+- **SLE:** Severe, uncontrolled flare. ANA 1:1280, Anti-dsDNA >300, Complement near-total consumption
+- **Renal:** eGFR 52 (Stage 3a), protein/creatinine 4.2 (nephrotic range), active nephritis
+- **Heme:** Pancytopenia. Hgb 9.1, Plt 88, WBC 2.1
+- **Medications:** Hydroxychloroquine UNDETECTABLE. Mycophenolate subtherapeutic.
+- **Toxicology:** Standard screen NEGATIVE. Targeted resonance-pharmacology panel PENDING (48-72 hrs).
+- **Imaging:** White matter disease disproportionate to disease duration. Left temporal changes correlate with aphasia.
+- **Resonance:** CFL 0.003 T (expected 0.8-2.4). 14+ suppression voids. Volitional defense construct intact under extreme pressure.
+- **Key Finding:** SLE medications not reaching patient despite active ICR management. No benign explanation.
 
 ### Evidence Requiring Warrant
 | Item | Status | Significance |
