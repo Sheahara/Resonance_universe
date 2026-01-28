@@ -20,6 +20,15 @@ This document defines how user requests are processed, routed to appropriate arc
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
+│  1.5 ASK USER (Conditional)                                 │
+│     - Check request against clarification triggers          │
+│     - If ambiguous/risky: present SHEPHERD QUERY, HALT      │
+│     - If clear: proceed to Step 2                           │
+│     - On response: incorporate answer, resume pipeline      │
+│     - See: ASK_USER_TOOL.md for full protocol               │
+└─────────────────────┬───────────────────────────────────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
 │  2. STATE CHECK                                             │
 │     - Read MASTER_STATE.md                                  │
 │     - Check relevant arc _ARC_STATE.md files                │
@@ -40,6 +49,14 @@ This document defines how user requests are processed, routed to appropriate arc
 │     - Check cross-arc dependencies                          │
 │     - Identify continuity constraints                       │
 │     - Plan document(s) to generate                          │
+└─────────────────────┬───────────────────────────────────────┘
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│  4.5 CONFIRM ACTION (Irreversible only)                     │
+│     - Summarize planned permanent consequences              │
+│     - List state changes that cannot be undone              │
+│     - Request explicit confirmation before proceeding       │
+│     - See: ASK_USER_TOOL.md for full protocol               │
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
@@ -93,6 +110,40 @@ Identify:
 | **Explore** | "What's going on with X" | May span arcs |
 | **React** | "X happened, show consequences" | Multiple arcs |
 | **Query** | "Check state of X" | State files only |
+
+---
+
+## STEP 1.5: ASK USER (Conditional)
+
+This step pauses the pipeline to ask the player clarifying questions when the request is ambiguous, risky, or could trigger irreversible consequences. Full protocol details are in `ASK_USER_TOOL.md`.
+
+### When to Trigger
+
+**Always ask** before:
+- Irreversible actions (burning sources, permanent state changes)
+- Ambiguous arc targets (multiple arcs active, none specified)
+- Timeline conflicts (request implies a future day)
+- Canon-breaking requests
+- Cross-arc cascades (3+ arcs affected)
+
+**Use judgment** for:
+- Scope ambiguity (how many documents? which days?)
+- Unclear tone/format preferences
+- Multiple valid interpretations
+- Player-facing vs. internal routing
+- Character perspective selection
+
+**Skip** when the request is clear, low-stakes, or the player said "you decide."
+
+### Output Format
+
+Use the `[SHEPHERD QUERY — CLARIFICATION REQUIRED]` block defined in `ASK_USER_TOOL.md`. Always provide options and a default.
+
+### Pipeline Behavior
+
+- **If triggered:** Present query, HALT pipeline, wait for response
+- **If not triggered:** Proceed directly to Step 2
+- **On response:** Incorporate the answer into the parsed request and resume at Step 2
 
 ---
 
@@ -173,6 +224,7 @@ These notes can be discarded after generation or kept in session log if useful f
 |------|---------|
 | `WebSearch` | General queries, current practices, terminology |
 | `WebFetch` | Specific URLs if a good source is identified |
+| `AskUser` | Clarification queries and irreversible action confirmations (see `ASK_USER_TOOL.md`) |
 | Project files | `RESONANCE UNIVERSE.txt` for in-world pharmacology |
 
 ### Judgment Call
@@ -229,6 +281,30 @@ Before generating, verify:
 **Cross-References Needed:**
 - [[DOCUMENT]] - [Why]
 ```
+
+---
+
+## STEP 4.5: CONFIRM ACTION (Irreversible Only)
+
+This step activates only when PLANNING (Step 4) identifies permanent, irreversible consequences. It provides a final confirmation checkpoint before generation commits to output that changes simulation state permanently.
+
+### When to Trigger
+
+- Burning a source (contact becomes permanently uncooperative)
+- Triggering institutional escalation (cannot be de-escalated)
+- Prematurely activating a dormant arc
+- Any action flagged in the Burned Bridges table
+- Cross-arc cascades with permanent downstream effects
+
+### Output Format
+
+Use the `[SHEPHERD ALERT — IRREVERSIBLE ACTION PENDING]` block defined in `ASK_USER_TOOL.md`. List all permanent consequences plainly.
+
+### Pipeline Behavior
+
+- **On "proceed":** Continue to Step 5 (Generation)
+- **On "abort":** Return to Step 1 (Intake), no state changes
+- **On "modify":** Return to Step 1.5 (Ask User) to refine the request
 
 ---
 
